@@ -25,48 +25,48 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 
 <p align="center"><em>Support from our sponsors helps make this project possible.</em></p>
 
-<table>
+<table align="center" border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding: 24px 48px;">
       <a href="tutorials/LangGraph-agent">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" alt="LangChain" height="48"><br>
-        <sub>Agent Framework & Workflows</sub>
-      </a>
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="48" alt="LangChain">
+      </a><br>
+      <span style="font-size: 12px; color: #555;">Agent Framework & Workflows</span>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding: 24px 48px;">
       <a href="tutorials/agent-memory-with-redis">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" alt="Redis" height="48"><br>
-        <sub>Memory & Vector&nbsp;Database</sub>
-      </a>
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="48" alt="Redis">
+      </a><br>
+      <span style="font-size: 12px; color: #555;">Memory & Vector Database</span>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding: 24px 48px;">
       <a href="tutorials/agent-with-tavily-web-access">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" alt="Tavily" height="48"><br>
-        <sub>Real-time Web Search&nbsp;API</sub>
-      </a>
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="48" alt="Tavily">
+      </a><br>
+      <span style="font-size: 12px; color: #555;">Real-time Web Search API</span>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding: 24px 48px;">
       <a href="tutorials/runpod-gpu-deploy">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" alt="RunPod" height="40"><br>
-        <sub>GPU Cloud Computing</sub>
-      </a>
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" height="40" alt="RunPod">
+      </a><br>
+      <span style="font-size: 12px; color: #555;">GPU Cloud Computing</span>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding: 24px 48px;">
       <a href="tutorials/agentic-applications-by-xpander.ai">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
-          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" alt="xpander.ai" height="40">
-        </picture><br>
-        <sub>Agent Orchestration Platform</sub>
-      </a>
+          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="40" alt="xpander.ai">
+        </picture>
+      </a><br>
+      <span style="font-size: 12px; color: #555;">Agent Orchestration Platform</span>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" style="padding: 24px 48px;">
       <a href="tutorials/agent-observability-with-qualifire">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="48"><br>
-        <sub>Security & Observability</sub>
-      </a>
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" height="48" alt="Qualifire">
+      </a><br>
+      <span style="font-size: 12px; color: #555;">Security & Observability</span>
     </td>
   </tr>
 </table>
