@@ -88,7 +88,6 @@ Whether you're just starting out or refining your deployment stack, this repo gi
   </tr>
 </table>
 
-
 <p align="center">
   <a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
 </p>
