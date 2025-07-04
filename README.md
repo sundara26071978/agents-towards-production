@@ -458,25 +458,11 @@ Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## ⚠️ Disclaimer
 
-**IMPORTANT: READ BEFORE USE**
+**Educational use only.** Authors disclaim all responsibility for use, misuse, or consequences. We do not endorse, verify, or guarantee third-party companies, tools, or services referenced herein. Not liable for damages, losses, security breaches, or fraudulent activities by referenced parties.
 
-This repository is provided for educational and informational purposes only. The authors, contributors, and maintainers:
+**Your responsibility:** Conduct due diligence, verify legitimacy, test in isolation, ensure legal compliance. Security tools require ethical use with proper authorization.
 
-- **Take no responsibility** for the use, misuse, or consequences of implementing any code, techniques, or recommendations contained herein
-- **Do not endorse, verify, or guarantee** the legitimacy, security, reliability, or trustworthiness of any third-party companies, tools, services, or individuals referenced or featured
-- **Are not liable** for any damages, losses, financial harm, security breaches, or issues arising from the use of this content
-- **Do not warrant** that any code or implementations are free from vulnerabilities, malicious content, or unintended behavior
-- **Disclaim all responsibility** for any fraudulent activities, scams, or malicious actions by any parties whose code, tools, or services are referenced
-
-**User Responsibilities:**
-- Conduct thorough due diligence and security audits before using any third-party tools or services
-- Verify the legitimacy and reputation of all companies and individuals before engaging with their products
-- Test all code in isolated environments before production deployment
-- Ensure compliance with applicable laws, regulations, and security best practices
-- Assume full responsibility for any consequences of using this content
-
-
-By using this repository, you acknowledge that you have read, understood, and agree to this disclaimer.
+By using this repository, you agree to this disclaimer.
 
 ---
 
