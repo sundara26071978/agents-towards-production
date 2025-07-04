@@ -31,10 +31,20 @@ Whether you're just starting out or refining your deployment stack, this repo gi
   <a href="tutorials/agent-memory-with-redis"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"      alt="Redis"      height="45" style="height: 45px;"></a>&nbsp;&nbsp;&nbsp;
   <a href="tutorials/agent-with-tavily-web-access"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"     alt="Tavily"     height="50" style="height: 50px;"></a>
 </p>
+<p align="center" style="font-size: 12px; color: #666; margin-top: 8px;">
+  <span style="display: inline-block; width: 120px; text-align: center;">Agent Framework & Workflows</span>&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 120px; text-align: center;">Memory & Vector Database</span>&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 120px; text-align: center;">Real-time Web Search API</span>
+</p>
 
 <!-- row 2 -->
 <p align="center">
   <a href="tutorials/runpod-gpu-deploy"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" alt="RunPod" height="40" style="height: 40px; display: inline-block; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agentic-applications-by-xpander.ai" style="display: inline-block; vertical-align: middle;"><picture style="height: 40px;"><source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" alt="xpander.ai Logo" height="40" style="height: 40px;"></picture></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agent-observability-with-qualifire"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="50" style="height: 50px; display: inline-block; vertical-align: middle;"></a>
+</p>
+<p align="center" style="font-size: 12px; color: #666; margin-top: 8px;">
+  <span style="display: inline-block; width: 120px; text-align: center;">GPU Cloud Computing</span>&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 120px; text-align: center;">Agent Orchestration Platform</span>&nbsp;&nbsp;&nbsp;
+  <span style="display: inline-block; width: 120px; text-align: center;">Security & Observability</span>
 </p>
 
 
