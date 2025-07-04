@@ -29,21 +29,21 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 <tr align="center" valign="top">
 <td valign="bottom">
 <a href="tutorials/LangGraph-agent">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded_langchain.png" height="44" alt="LangChain">
+<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="44" alt="LangChain">
 </a><br>
 <sub>Agent Framework &amp; Workflows</sub>
 </td>
 
 <td valign="bottom">
 <a href="tutorials/agent-memory-with-redis">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded_Redis.png" height="44" alt="Redis">
+<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="44" alt="Redis">
 </a><br>
 <sub>Memory &amp; Vector Database</sub>
 </td>
 
 <td valign="bottom">
 <a href="tutorials/agent-with-tavily-web-access">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded_tavily.png" height="46" alt="Tavily">
+<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="46" alt="Tavily">
 </a><br>
 <sub>Real-time Web Search API</sub>
 </td>
@@ -52,7 +52,7 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 <tr align="center" valign="top">
 <td valign="bottom">
 <a href="tutorials/runpod-gpu-deploy">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded_runpod.svg" height="28" alt="RunPod">
+<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" height="28" alt="RunPod">
 </a><br>
 <sub>GPU Cloud Computing</sub>
 </td>
@@ -60,8 +60,8 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 <td valign="bottom">
 <a href="tutorials/agentic-applications-by-xpander.ai">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded_xpander_dark.png">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded_xpander_light.png" height="32" alt="xpander.ai">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
+  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="32" alt="xpander.ai">
 </picture>
 </a><br>
 <sub>Agent Orchestration Platform</sub>
@@ -69,7 +69,7 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 
 <td valign="bottom">
 <a href="tutorials/agent-observability-with-qualifire">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded_qualifire.png" height="38" alt="Qualifire">
+<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" height="38" alt="Qualifire">
 </a><br>
 <sub>Security &amp; Observability</sub>
 </td>
@@ -79,6 +79,7 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 <p align="center">
 <a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
 </p>
+
 
 
 
