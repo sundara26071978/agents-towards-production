@@ -61,7 +61,7 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 <a href="tutorials/agentic-applications-by-xpander.ai">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
-  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="40" alt="xpander.ai">
+  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="46" alt="xpander.ai">
 </picture>
 </a><br>
 <sub>Agent Orchestration Platform</sub>
