@@ -28,48 +28,66 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 <table align="center" border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" valign="top" style="padding: 24px 48px;">
-      <a href="tutorials/LangGraph-agent">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="48" alt="LangChain">
-      </a><br>
+      <div style="min-height: 60px;">
+        <a href="tutorials/LangGraph-agent">
+          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="48" alt="LangChain">
+        </a>
+      </div>
       <span style="font-size: 12px; color: #555;">Agent Framework & Workflows</span>
     </td>
+
     <td align="center" valign="top" style="padding: 24px 48px;">
-      <a href="tutorials/agent-memory-with-redis">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="48" alt="Redis">
-      </a><br>
+      <div style="min-height: 60px;">
+        <a href="tutorials/agent-memory-with-redis">
+          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="48" alt="Redis">
+        </a>
+      </div>
       <span style="font-size: 12px; color: #555;">Memory & Vector Database</span>
     </td>
+
     <td align="center" valign="top" style="padding: 24px 48px;">
-      <a href="tutorials/agent-with-tavily-web-access">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="48" alt="Tavily">
-      </a><br>
+      <div style="min-height: 60px;">
+        <a href="tutorials/agent-with-tavily-web-access">
+          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="48" alt="Tavily">
+        </a>
+      </div>
       <span style="font-size: 12px; color: #555;">Real-time Web Search API</span>
     </td>
   </tr>
+
   <tr>
     <td align="center" valign="top" style="padding: 24px 48px;">
-      <a href="tutorials/runpod-gpu-deploy">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" height="40" alt="RunPod">
-      </a><br>
+      <div style="min-height: 60px;">
+        <a href="tutorials/runpod-gpu-deploy">
+          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" height="40" alt="RunPod">
+        </a>
+      </div>
       <span style="font-size: 12px; color: #555;">GPU Cloud Computing</span>
     </td>
+
     <td align="center" valign="top" style="padding: 24px 48px;">
-      <a href="tutorials/agentic-applications-by-xpander.ai">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
-          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="40" alt="xpander.ai">
-        </picture>
-      </a><br>
+      <div style="min-height: 60px;">
+        <a href="tutorials/agentic-applications-by-xpander.ai">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
+            <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="40" alt="xpander.ai">
+          </picture>
+        </a>
+      </div>
       <span style="font-size: 12px; color: #555;">Agent Orchestration Platform</span>
     </td>
+
     <td align="center" valign="top" style="padding: 24px 48px;">
-      <a href="tutorials/agent-observability-with-qualifire">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" height="48" alt="Qualifire">
-      </a><br>
+      <div style="min-height: 60px;">
+        <a href="tutorials/agent-observability-with-qualifire">
+          <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" height="48" alt="Qualifire">
+        </a>
+      </div>
       <span style="font-size: 12px; color: #555;">Security & Observability</span>
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
