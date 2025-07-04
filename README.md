@@ -27,14 +27,14 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 
 <!-- row 1 -->
 <p align="center">
-  <a href="tutorials/LangGraph-agent"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"  alt="LangChain"  height="50"></a>&nbsp;&nbsp;&nbsp;
-  <a href="tutorials/agent-memory-with-redis"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"      alt="Redis"      height="45"></a>&nbsp;&nbsp;&nbsp;
-  <a href="tutorials/agent-with-tavily-web-access"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"     alt="Tavily"     height="50"></a>
+  <a href="tutorials/LangGraph-agent"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"  alt="LangChain"  height="50" style="height: 50px;"></a>&nbsp;&nbsp;&nbsp;
+  <a href="tutorials/agent-memory-with-redis"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"      alt="Redis"      height="45" style="height: 45px;"></a>&nbsp;&nbsp;&nbsp;
+  <a href="tutorials/agent-with-tavily-web-access"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"     alt="Tavily"     height="50" style="height: 50px;"></a>
 </p>
 
 <!-- row 2 -->
 <p align="center">
-  <a href="tutorials/runpod-gpu-deploy"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" alt="RunPod" height="40" style="display: inline-block; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agentic-applications-by-xpander.ai" style="display: inline-block; vertical-align: middle;"><picture style="height: 40px;"><source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" alt="xpander.ai Logo" height="40" style="height: 40px;"></picture></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agent-observability-with-qualifire"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="50" style="display: inline-block; vertical-align: middle;"></a>
+  <a href="tutorials/runpod-gpu-deploy"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" alt="RunPod" height="40" style="height: 40px; display: inline-block; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agentic-applications-by-xpander.ai" style="display: inline-block; vertical-align: middle;"><picture style="height: 40px;"><source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" alt="xpander.ai Logo" height="40" style="height: 40px;"></picture></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agent-observability-with-qualifire"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="50" style="height: 50px; display: inline-block; vertical-align: middle;"></a>
 </p>
 
 
