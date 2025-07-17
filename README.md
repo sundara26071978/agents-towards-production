@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
-[![Reddit](https://img.shields.io/badge/Reddit-Join%20our%20subreddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/EducationalAI/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/NirDiamant)
 
@@ -24,67 +23,126 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 
 ## 💎 Sponsors
 
-<p align="center"><em>Support from our sponsors helps make this project possible.</em></p>
+<p align="center"><em>
+Support from our sponsors helps make this project possible.<br>
+Click a logo to open the step‑by‑step tutorial.<br>
+A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click to keep this page open).
+</em></p>
 
-<table align="center" border="0" cellpadding="20">
+<!-- ─────────── 1st row – 4 sponsors ─────────── -->
+<table align="center" cellpadding="20"
+       style="table-layout:fixed; width:100%; border-collapse:collapse;">
 <tr align="center" valign="top">
-<td valign="bottom">
-<a href="tutorials/LangGraph-agent">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png" height="44" alt="LangChain">
-</a><br>
-<sub>Agent Framework &amp; Workflows</sub>
-</td>
 
-<td valign="bottom">
-<a href="tutorials/agent-memory-with-redis">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png" height="44" alt="Redis">
-</a><br>
-<sub>Memory &amp; Vector Database</sub>
-</td>
+  <!-- LangChain -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/LangGraph-agent" title="Open LangChain tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"
+           height="44" style="max-width:180px;" alt="LangChain logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Agent Framework &amp; Workflows</span><br>
+      <a href="https://langchain.com">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit LangChain site">
+      </a>
+    </sub>
+  </td>
 
-<td valign="bottom">
-<a href="tutorials/agent-with-tavily-web-access">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png" height="46" alt="Tavily">
-</a><br>
-<sub>Real-time Web Search API</sub>
-</td>
+  <!-- Redis -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/agent-memory-with-redis" title="Open Redis tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"
+           height="44" style="max-width:180px;" alt="Redis logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Memory &amp; Vector Database</span><br>
+      <a href="https://redis.io/try-free/?utm_source=nir&utm_medium=cpa&utm_campaign=2025-05-ai_in_production-influencer-nir&utm_content=sd-software_download-7013z000001WaRY">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Redis site">
+      </a>
+    </sub>
+  </td>
+
+  <!-- Tavily -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/agent-with-tavily-web-access" title="Open Tavily tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
+           height="44" style="max-width:180px;" alt="Tavily logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Real‑time Web Search API</span><br>
+      <a href="https://app.tavily.com/home/?utm_source=github&utm_medium=referral&utm_campaign=nir_diamant">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Tavily site">
+      </a>
+    </sub>
+  </td>
+
+  <!-- Bright Data -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/agent-with-brightdata" title="Open Bright Data tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png"
+           height="44" style="max-width:180px;" alt="Bright Data logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Web Data Platform</span><br>
+      <a href="https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_github_nirdiamant_logo">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Bright Data site">
+      </a>
+    </sub>
+  </td>
 </tr>
+</table>
 
+<!-- ─────────── 2nd row – centred 3 sponsors (table 75 % wide) ─────────── -->
+<table align="center" cellpadding="20"
+       style="table-layout:fixed; width:75%; margin-top:16px; border-collapse:collapse;">
 <tr align="center" valign="top">
-<td valign="bottom">
-<a href="tutorials/runpod-gpu-deploy">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg" height="28" alt="RunPod">
-</a><br>
-<sub>GPU Cloud Computing</sub>
-</td>
 
-<td valign="bottom">
-<a href="tutorials/agentic-applications-by-xpander.ai">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
-  <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" height="46" alt="xpander.ai">
-</picture>
-</a><br>
-<sub>Agent Orchestration Platform</sub>
-</td>
+  <!-- RunPod -->
+  <td width="33%" valign="bottom">
+    <a href="tutorials/runpod-gpu-deploy" title="Open RunPod tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
+           height="44" style="max-width:180px;" alt="RunPod logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">GPU Cloud Computing</span><br>
+      <a href="https://get.runpod.io/nirdiamant">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit RunPod site">
+      </a>
+    </sub>
+  </td>
 
-<td valign="bottom">
-<a href="tutorials/agent-observability-with-qualifire">
-<img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" height="38" alt="Qualifire">
-</a><br>
-<sub>Security &amp; Observability</sub>
-</td>
+  <!-- xpander.ai -->
+  <td width="33%" valign="bottom">
+    <a href="tutorials/agentic-applications-by-xpander.ai" title="Open xpander.ai tutorial">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
+             height="44" style="max-width:180px;" alt="xpander.ai logo">
+      </picture>
+    </a><br>
+    <sub><span style="white-space:nowrap;">Agent Orchestration Platform</span><br>
+      <a href="https://app.xpander.ai/login?utm=atp">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit xpander.ai site">
+      </a>
+    </sub>
+  </td>
+
+  <!-- Qualifire -->
+  <td width="33%" valign="bottom">
+    <a href="tutorials/agent-observability-with-qualifire" title="Open Qualifire tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
+           height="44" style="max-width:180px;" alt="Qualifire logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
+      <a href="https://app.qualifire.ai?utm=agents-towards-production">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire site">
+      </a>
+    </sub>
+  </td>
 </tr>
 </table>
 
 <p align="center">
-<a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
+  <a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
 </p>
 
-
-
-
-
+</div>
 
 
 
