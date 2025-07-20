@@ -172,6 +172,22 @@ _Join over 25,000 of AI enthusiasts getting unique cutting-edge insights and fre
 
 ---
 
+<div align="center">
+
+## 💬 Join Our Community
+
+Stay connected with the latest in GenAI and agent development:
+
+### r/EducationalAI
+
+[![Reddit](https://img.shields.io/badge/Reddit-Join%20r/EducationalAI-ff4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/EducationalAI/)
+
+_Join our growing community discussing cutting-edge AI research, agent development, and production insights!_
+
+</div>
+
+---
+
 ## ✨ Introduction
 **Agents Towards Production** is your hands-on guide to every building block of a GenAI agent stack.  
 All knowledge is delivered through runnable tutorials covering orchestration, memory, observability, deployment, security, and more. Each tutorial lives in its own folder with ready-to-run notebooks or code files, so you can move from concept to working agent in minutes.
