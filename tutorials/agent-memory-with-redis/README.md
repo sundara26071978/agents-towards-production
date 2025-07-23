@@ -14,13 +14,15 @@ The goal of this tutorial is to empower you with a **horizontal concept** that y
 - **Production Patterns**: Tool-based memory management and conversation summarization
 - **LangGraph Integration**: Build complete workflows with Redis checkpointers for state persistence
 
+## 📓 Tutorial
+
+[Agent Memory Tutorial Notebook](agent_memory_tutorial.ipynb)
 
 ## 🚀 Run in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NirDiamant/agents-towards-production/blob/main/tutorials/agent-memory-with-redis/agent_memory_tutorial.ipynb)
 
-
-## 📋 Requirements
+## �� Requirements
 
 - **OpenAI API Key** (with billing enabled)
 - **Redis** optionally installed in Colab, or use [Redis Cloud](https://redis.io/try-free/?utm_source=nir&utm_medium=cpa&utm_campaign=2025-05-ai_in_production-influencer-nir&utm_content=sd-software_download-7013z000001WaRY)
