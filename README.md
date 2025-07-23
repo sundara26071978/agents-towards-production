@@ -138,9 +138,17 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
 </tr>
 </table>
 
-<p align="center">
-  <a href="mailto:nirdiamant21@gmail.com"><strong>Become a sponsor →</strong></a>
-</p>
+<div align="center">
+
+### 💎 Become a Sponsor
+
+**Get in touch:**
+
+[![Contact](https://img.shields.io/badge/Contact-Send%20Email-blue?style=for-the-badge&logo=mail)](mailto:nirdiamant21@gmail.com?subject=Sponsorship%20Opportunity%20-%20Agents%20Towards%20Production&body=Hi%20Nir%2C%0A%0AI%20am%20interested%20in%20sponsoring%20your%20Agents%20Towards%20Production%20project.%0A%0APlease%20let%20me%20know%20about%20available%20sponsorship%20opportunities.%0A%0ABest%20regards%2C)
+[![Website](https://img.shields.io/badge/Website-DiamantAI.com-green?style=for-the-badge&logo=globe)](https://www.diamant-ai.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nir-diamant-759323134/)
+
+</div>
 
 </div>
 
