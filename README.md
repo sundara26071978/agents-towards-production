@@ -88,18 +88,18 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
 </tr>
 </table>
 
-<!-- ─────────── 2nd row – centred 3 sponsors (table 75 % wide) ─────────── -->
+<!-- ─────────── 2nd row – 4 sponsors ─────────── -->
 <table align="center" cellpadding="20"
-       style="table-layout:fixed; width:75%; margin-top:16px; border-collapse:collapse;">
+       style="table-layout:fixed; width:100%; margin-top:16px; border-collapse:collapse;">
 <tr align="center" valign="top">
 
   <!-- RunPod -->
-  <td width="33%" valign="bottom">
+  <td width="200" valign="bottom">
     <a href="tutorials/runpod-gpu-deploy" title="Open RunPod tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
            height="44" style="max-width:180px;" alt="RunPod logo">
     </a><br>
-    <sub><span style="white-space:nowrap;">GPU Cloud Computing</span><br>
+    <sub><span style="white-space:nowrap;">GPU Cloud Computing</span><br>
       <a href="https://get.runpod.io/nirdiamant">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit RunPod site">
       </a>
@@ -107,7 +107,7 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   </td>
 
   <!-- xpander.ai -->
-  <td width="33%" valign="bottom">
+  <td width="200" valign="bottom">
     <a href="tutorials/agentic-applications-by-xpander.ai" title="Open xpander.ai tutorial">
       <picture>
         <source media="(prefers-color-scheme: dark)"
@@ -116,7 +116,7 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
              height="44" style="max-width:180px;" alt="xpander.ai logo">
       </picture>
     </a><br>
-    <sub><span style="white-space:nowrap;">Agent Orchestration Platform</span><br>
+    <sub><span style="white-space:nowrap;">Agent Orchestration Platform</span><br>
       <a href="https://app.xpander.ai/login?utm=atp">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit xpander.ai site">
       </a>
@@ -124,14 +124,27 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   </td>
 
   <!-- Qualifire -->
-  <td width="33%" valign="bottom">
+  <td width="200" valign="bottom">
     <a href="tutorials/agent-observability-with-qualifire" title="Open Qualifire tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
            height="44" style="max-width:180px;" alt="Qualifire logo">
     </a><br>
-    <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
+    <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
       <a href="https://app.qualifire.ai?utm=agents-towards-production">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire site">
+      </a>
+    </sub>
+  </td>
+
+  <!-- Anchor Browser -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbroswer.png"
+           height="55" style="max-width:220px;" alt="Anchor Browser logo">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Browser Automation Platform</span><br>
+      <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser site">
       </a>
     </sub>
   </td>
@@ -261,6 +274,23 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
   </tr>
 </table>
 
+### 🧠 Memory
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
+  <tr>
+    <td>Agent Memory: Dual-Memory & Semantic Search (Redis)</td>
+    <td>Implement dual-memory (short-term and long-term), semantic search, and persistent state for agents that remember user preferences and learn from conversations.</td>
+    <td align="center">
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+</table>
+
 ### 🔌 Tool Integration
 
 <table width="100%">
@@ -276,21 +306,11 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-tavily-web-access"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
-</table>
-
-### 🧠 Memory
-
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
   <tr>
-    <td>Agent Memory: Dual-Memory & Semantic Search (Redis)</td>
-    <td>Implement dual-memory (short-term and long-term), semantic search, and persistent state for agents that remember user preferences and learn from conversations.</td>
+    <td>Browser Automation for AI Agents (Anchor Browser)</td>
+    <td>Enable agents to interact with web applications through browser automation. Learn to extract data from dashboards, automate form filling, and navigate complex web interfaces using cloud-hosted browsers.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/anchor-browser-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
