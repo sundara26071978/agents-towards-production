@@ -136,18 +136,28 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
     </sub>
   </td>
 
-  <!-- Anchor Browser -->
-  <td width="200" valign="bottom">
-    <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
-      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbroswer.png"
-           height="55" style="max-width:220px;" alt="Anchor Browser logo">
-    </a><br>
-    <sub><span style="white-space:nowrap;">Browser Automation Platform</span><br>
-      <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser site">
-      </a>
-    </sub>
-  </td>
+    <!-- Anchor Browser -->
+<td width="200" valign="bottom">
+  <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
+    <picture>
+      <!-- Dark‑mode logo -->
+      <source
+        srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_dark.png"
+        media="(prefers-color-scheme: dark)">
+      <!-- Default (light‑mode) logo -->
+      <img
+        src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbroswer_light.png"
+        height="20"
+        style="max-width:220px;"
+        alt="Anchor Browser logo">
+    </picture>
+  </a><br>
+  <sub><span style="white-space:nowrap;">Agentic Browser Automation</span><br>
+    <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
+      <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser site">
+    </a>
+  </sub>
+</td>
 </tr>
 </table>
 
