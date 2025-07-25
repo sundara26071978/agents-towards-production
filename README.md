@@ -147,7 +147,7 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
         media="(prefers-color-scheme: dark)">
       <!-- Default (light‑mode) logo -->
       <img
-        src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbroswer_light.png"
+        src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
         height="20"
         style="max-width:220px;"
         alt="Anchor Browser - Agentic browser automation platform for AI agents to interact with web applications and extract data">
