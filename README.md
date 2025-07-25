@@ -136,7 +136,7 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
     </sub>
   </td>
 
-    <!-- Anchor Browser -->
+  <!-- Anchor Browser -->
 <td width="200" valign="bottom">
   <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
     <picture>
