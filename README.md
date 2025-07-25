@@ -1,3 +1,5 @@
+html<br><!-- keywords: generative ai agents, production deployment, langgraph, langchain, rag, retrieval augmented generation, memory, observability, guardrails, gpu deployment, orchestration, multi agent, prompt engineering --><br>
+
 ![](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=main-readme)
 <div align="center">
 
@@ -10,8 +12,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/NirDiamant)
 
-Agents Towards Production is your go-to resource for building GenAI agents that scale - from zero to production.  
-Whether you're just starting out or refining your deployment stack, this repo gives you the tools, patterns, and code examples to do it right.
+Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from prototype to enterprise. Tutorials cover stateful workflows, vector memory, real‑time web search APIs, Docker deployment, FastAPI endpoints, security guardrails, GPU scaling, browser automation, fine‑tuning, multi‑agent coordination, observability, evaluation, and UI development.
 
 ⭐ If you find value in this project, **give it a star** to help others discover it too
 
@@ -38,11 +39,11 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   <td width="200" valign="bottom">
     <a href="tutorials/LangGraph-agent" title="Open LangChain tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"
-           height="44" style="max-width:180px;" alt="LangChain logo">
+           height="44" style="max-width:180px;" alt="LangChain - AI agent framework and workflow orchestration platform for building production-ready language model applications">
     </a><br>
     <sub><span style="white-space:nowrap;">Agent Framework &amp; Workflows</span><br>
       <a href="https://langchain.com">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit LangChain site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit LangChain AI agent framework website">
       </a>
     </sub>
   </td>
@@ -51,11 +52,11 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   <td width="200" valign="bottom">
     <a href="tutorials/agent-memory-with-redis" title="Open Redis tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"
-           height="44" style="max-width:180px;" alt="Redis logo">
+           height="44" style="max-width:180px;" alt="Redis - In-memory database and vector storage for AI agent memory, caching, and real-time data processing">
     </a><br>
     <sub><span style="white-space:nowrap;">Memory &amp; Vector Database</span><br>
       <a href="https://redis.io/try-free/?utm_source=nir&utm_medium=cpa&utm_campaign=2025-05-ai_in_production-influencer-nir&utm_content=sd-software_download-7013z000001WaRY">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Redis site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Redis in-memory database and vector storage website">
       </a>
     </sub>
   </td>
@@ -64,11 +65,11 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   <td width="200" valign="bottom">
     <a href="tutorials/agent-with-tavily-web-access" title="Open Tavily tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
-           height="44" style="max-width:180px;" alt="Tavily logo">
+           height="44" style="max-width:180px;" alt="Tavily - Real-time web search API for AI agents with intelligent content extraction and summarization">
     </a><br>
     <sub><span style="white-space:nowrap;">Real‑time Web Search API</span><br>
       <a href="https://app.tavily.com/home/?utm_source=github&utm_medium=referral&utm_campaign=nir_diamant">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Tavily site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Tavily real-time web search API website">
       </a>
     </sub>
   </td>
@@ -77,11 +78,11 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   <td width="200" valign="bottom">
     <a href="tutorials/agent-with-brightdata" title="Open Bright Data tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png"
-           height="44" style="max-width:180px;" alt="Bright Data logo">
+           height="44" style="max-width:180px;" alt="Bright Data - Web scraping and data collection platform for AI training and agent data gathering">
     </a><br>
     <sub><span style="white-space:nowrap;">Web Data Platform</span><br>
       <a href="https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_github_nirdiamant_logo">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Bright Data site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Bright Data web scraping platform website">
       </a>
     </sub>
   </td>
@@ -97,11 +98,11 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   <td width="200" valign="bottom">
     <a href="tutorials/runpod-gpu-deploy" title="Open RunPod tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
-           height="44" style="max-width:180px;" alt="RunPod logo">
+           height="44" style="max-width:180px;" alt="RunPod - GPU cloud computing platform for training and deploying AI models and agents at scale">
     </a><br>
     <sub><span style="white-space:nowrap;">GPU Cloud Computing</span><br>
       <a href="https://get.runpod.io/nirdiamant">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit RunPod site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit RunPod GPU cloud computing website">
       </a>
     </sub>
   </td>
@@ -113,12 +114,12 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
         <source media="(prefers-color-scheme: dark)"
                 srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
         <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
-             height="44" style="max-width:180px;" alt="xpander.ai logo">
+             height="44" style="max-width:180px;" alt="xpander.ai - Agent orchestration platform for building and managing multi-step AI agent workflows">
       </picture>
     </a><br>
     <sub><span style="white-space:nowrap;">Agent Orchestration Platform</span><br>
       <a href="https://app.xpander.ai/login?utm=atp">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit xpander.ai site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit xpander.ai agent orchestration platform website">
       </a>
     </sub>
   </td>
@@ -127,11 +128,11 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
   <td width="200" valign="bottom">
     <a href="tutorials/agent-observability-with-qualifire" title="Open Qualifire tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
-           height="44" style="max-width:180px;" alt="Qualifire logo">
+           height="44" style="max-width:180px;" alt="Qualifire - AI agent security and observability platform for monitoring, tracing, and protecting agent workflows">
     </a><br>
     <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
       <a href="https://app.qualifire.ai?utm=agents-towards-production">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire site">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire AI agent security platform website">
       </a>
     </sub>
   </td>
@@ -149,12 +150,12 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
         src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbroswer_light.png"
         height="20"
         style="max-width:220px;"
-        alt="Anchor Browser logo">
+        alt="Anchor Browser - Agentic browser automation platform for AI agents to interact with web applications and extract data">
     </picture>
   </a><br>
   <sub><span style="white-space:nowrap;">Agentic Browser Automation</span><br>
     <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
-      <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser site">
+      <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser automation platform website">
     </a>
   </sub>
 </td>
@@ -173,8 +174,6 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
 </div>
 
 </div>
-
-
 
 
 ---
