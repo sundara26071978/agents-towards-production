@@ -1,6 +1,5 @@
 html<br><!-- keywords: generative ai agents, production deployment, langgraph, langchain, rag, retrieval augmented generation, memory, observability, guardrails, gpu deployment, orchestration, multi agent, prompt engineering --><br>
 
-![](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=main-readme)
 <div align="center">
 
 # Agents Towards Production
@@ -588,6 +587,9 @@ This project is licensed under a custom non-commercial license - see the [LICENS
 ### ⭐️ If you find this repository helpful, please consider giving it a star!
 
 <br>
+
+![](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=main-readme)
+
 
 <p><i>Keywords: AI Agents, Production Deployment, LLM, Orchestration, Multi-agent Systems, Memory Systems, Monitoring, Security, Observability, Agent Frameworks, Infrastructure, Serverless, Enterprise AI, Tool Integration</i></p>
 
