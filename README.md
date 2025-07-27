@@ -1,18 +1,14 @@
+<div align="center">
+
 # Agents Towards Production
+
+### _The open-source playbook for turning AI agents into real-world products._
 
 **Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from prototype to enterprise.** Tutorials cover stateful workflows, vector memory, real‑time web search APIs, Docker deployment, FastAPI endpoints, security guardrails, GPU scaling, browser automation, fine‑tuning, multi‑agent coordination, observability, evaluation, and UI development.
 
-<div align="center">
-
 ## ⭐ **If you find value in this project, PLEASE STAR IT to help others discover these tutorials!** ⭐
 
-</div>
-
 <!-- SEO Keywords: generative ai agents, production deployment, langgraph, langchain, rag, retrieval augmented generation, memory, observability, guardrails, gpu deployment, orchestration, multi agent, prompt engineering, tutorials, guide -->
-
-<div align="center">
-
-### _The open-source playbook for turning AI agents into real-world products._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
