@@ -1,8 +1,16 @@
-html<br><!-- keywords: generative ai agents, production deployment, langgraph, langchain, rag, retrieval augmented generation, memory, observability, guardrails, gpu deployment, orchestration, multi agent, prompt engineering --><br>
+# Agents Towards Production
+
+**Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from prototype to enterprise.** Tutorials cover stateful workflows, vector memory, real‑time web search APIs, Docker deployment, FastAPI endpoints, security guardrails, GPU scaling, browser automation, fine‑tuning, multi‑agent coordination, observability, evaluation, and UI development.
 
 <div align="center">
 
-# Agents Towards Production
+## ⭐ **If you find value in this project, PLEASE STAR IT to help others discover these tutorials!** ⭐
+
+</div>
+
+<!-- SEO Keywords: generative ai agents, production deployment, langgraph, langchain, rag, retrieval augmented generation, memory, observability, guardrails, gpu deployment, orchestration, multi agent, prompt engineering, tutorials, guide -->
+
+<div align="center">
 
 ### _The open-source playbook for turning AI agents into real-world products._
 
@@ -10,10 +18,6 @@ html<br><!-- keywords: generative ai agents, production deployment, langgraph, l
 [![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/NirDiamant)
-
-Agents Towards Production is your go‑to resource for building production‑ready GenAI agents that scale from prototype to enterprise. Tutorials cover stateful workflows, vector memory, real‑time web search APIs, Docker deployment, FastAPI endpoints, security guardrails, GPU scaling, browser automation, fine‑tuning, multi‑agent coordination, observability, evaluation, and UI development.
-
-⭐ If you find value in this project, **give it a star** to help others discover it too
 
 </div>
 
