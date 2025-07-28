@@ -248,7 +248,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 
 ## 📚 Tutorials
 
-### 🚀 GPU Deployment
+### 🔌 Tool Integration
 
 <table width="100%">
   <tr style="background-color:#f8f9fa">
@@ -257,10 +257,17 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <th width="20%">View</th>
   </tr>
   <tr>
-    <td>Scalable GPU Deployment for AI Agents (Runpod)</td>
-    <td>Deploy AI agents on scalable GPU infrastructure. Learn to set up cost-effective, high-performance environments for demanding agent workloads.</td>
+    <td>Browser Automation for AI Agents (Anchor Browser)</td>
+    <td>Enable agents to interact with web applications through browser automation. Learn to extract data from dashboards, automate form filling, and navigate complex web interfaces using cloud-hosted browsers.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/runpod-gpu-deploy"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/anchor-browser-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Real-Time Web Data Integration for Agents (Tavily)</td>
+    <td>Enable agents to access, search, and extract real-time web data. Build workflows that combine live web information with private knowledge for research, monitoring, and up-to-date recommendations.</td>
+    <td align="center">
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-tavily-web-access"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -299,7 +306,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
   </tr>
 </table>
 
-### 🔌 Tool Integration
+### 🚀 GPU Deployment
 
 <table width="100%">
   <tr style="background-color:#f8f9fa">
@@ -308,17 +315,10 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <th width="20%">View</th>
   </tr>
   <tr>
-    <td>Real-Time Web Data Integration for Agents (Tavily)</td>
-    <td>Enable agents to access, search, and extract real-time web data. Build workflows that combine live web information with private knowledge for research, monitoring, and up-to-date recommendations.</td>
+    <td>Scalable GPU Deployment for AI Agents (Runpod)</td>
+    <td>Deploy AI agents on scalable GPU infrastructure. Learn to set up cost-effective, high-performance environments for demanding agent workloads.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-tavily-web-access"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>Browser Automation for AI Agents (Anchor Browser)</td>
-    <td>Enable agents to interact with web applications through browser automation. Learn to extract data from dashboards, automate form filling, and navigate complex web interfaces using cloud-hosted browsers.</td>
-    <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/anchor-browser-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/runpod-gpu-deploy"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
