@@ -257,6 +257,13 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <th width="20%">View</th>
   </tr>
   <tr>
+    <td>Web Data Collection for AI Agents (Bright Data)</td>
+    <td>Build agents that collect and process web data at scale using enterprise-grade scraping infrastructure. Learn to integrate proxy networks, handle CAPTCHAs, and extract structured data from complex websites.</td>
+    <td align="center">
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-brightdata"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+  <tr>
     <td>Browser Automation for AI Agents (Anchor Browser)</td>
     <td>Enable agents to interact with web applications through browser automation. Learn to extract data from dashboards, automate form filling, and navigate complex web interfaces using cloud-hosted browsers.</td>
     <td align="center">
