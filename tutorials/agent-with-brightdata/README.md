@@ -1,3 +1,5 @@
+![](https://europe-west1-atp-views-tracker.cloudfunctions.net/working-analytics?notebook=tutorials--agent-with-brightdata--README)
+
 # Build Powerful Web Scraping Agents with LangGraph & Bright Data 🕷️
 
 
