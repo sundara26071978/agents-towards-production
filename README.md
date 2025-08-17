@@ -106,20 +106,20 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
     </sub>
   </td>
 
-  <!-- xpander.ai -->
+  <!-- Portia -->
   <td width="200" valign="bottom">
-    <a href="tutorials/agentic-applications-by-xpander.ai" title="Open xpander.ai tutorial">
+    <a href="tutorials/fullstack-agents-with-portia" title="Open Portia tutorial">
       <picture>
         <source media="(prefers-color-scheme: dark)"
-                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
-             height="44" style="max-width:180px;" alt="xpander.ai - Agent orchestration platform for building and managing multi-step AI agent workflows">
+                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_white_tight.png">
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_portia_black_tight.png"
+             height="44" style="max-width:180px;" alt="Portia - AI framework for building predictable, stateful, and authenticated agentic workflows">
       </picture>
     </a><br>
-    <sub><span style="white-space:nowrap;">Agent Orchestration Platform</span><br>
-      <a href="https://app.xpander.ai/login?utm=atp">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit xpander.ai agent orchestration platform website">
-      </a>
+    <sub><span style="white-space:nowrap;">AI Agent Framework</span><br>
+             <a href="https://portiaai.org/3J8gAwY">
+         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Portia AI framework website">
+       </a>
     </sub>
   </td>
 
@@ -133,6 +133,23 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
       <a href="https://app.qualifire.ai?utm=agents-towards-production">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire AI agent security platform website">
       </a>
+    </sub>
+  </td>
+
+  <!-- Coral Protocol -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/multi-agent-setup-coral" title="Open Coral Protocol tutorial">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_coral_white.png">
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_coral_black.png"
+             height="44" style="max-width:180px;" alt="Coral Protocol - Open-source collaboration infrastructure for AI agents and production software service systems">
+      </picture>
+    </a><br>
+    <sub><span style="white-space:nowrap;">Multi-Agent Infrastructure</span><br>
+             <a href="https://docs.coralprotocol.org/CoralDoc/Introduction/UsingAgents#devmode?utm_source=github&utm_medium=referral&utm_campaign=nir_github&utm_id=nir_coralprotocol">
+         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Coral Protocol website">
+       </a>
     </sub>
   </td>
 
@@ -228,16 +245,16 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 |---|---|
 | **Tutorial-first learning** | Every topic comes with a practical walkthrough you can run locally |
 | **Full lifecycle coverage** | All the capabilities required to take agents from prototype to production |
-| 🚀 **GPU Deployment** | Deploy to scalable GPU infrastructure for high-performance agent workloads |
-| 🔍 **Real-Time Monitoring** | Gain end-to-end tracing, monitoring, and debugging for agent workflows |
 | 🔌 **Tool Integration** | Connect agents to real-time web data, databases, and external APIs |
 | 🧠 **Memory** | Implement both short- and long-term stores with semantic search |
-| 🔄 **Orchestration** | Design multi-tool, memory-aware workflows and agent-to-agent messaging |
+| 🏗️ **Full-Stack Applications** | Build complete agent applications with production-ready frameworks |
+| 👥 **Multi-agent Coordination** | Enable message passing and shared planning |
+| 🔍 **Real-Time Monitoring** | Gain end-to-end tracing, monitoring, and debugging for agent workflows |
+| 🚀 **GPU Deployment** | Deploy to scalable GPU infrastructure for high-performance agent workloads |
 | 🔒 **Security** | Apply real-time guardrails and injection defenses |
 | 🧩 **Agent Frameworks** | Create stateful graphs, expose agents as REST endpoints, and package reusable tools |
 | 🚀 **Deployment** | Ship to containers and on-prem servers with containerization patterns |
 | 🛠️ **Model Customization** | Fine-tune language models for specialized agent behavior and domain expertise |
-| 👥 **Multi-agent Coordination** | Enable message passing and shared planning |
 | 🔍 **Tracing & Debugging** | Add comprehensive observability to debug and improve agent performance |
 | 📊 **Evaluation** | Automate behavioral testing and metric tracking |
 | 🖥️ **UI & Frontend** | Build chat or dashboard front-ends in minutes |
@@ -279,23 +296,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
   </tr>
 </table>
 
-### 🔍 Real-Time Monitoring
-
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
-  <tr>
-    <td>Agent Observability: Tracing, Monitoring & Debugging (Qualifire)</td>
-    <td>Gain end-to-end tracing, real-time monitoring, and debugging for agent workflows. Learn to capture logs, traces, and quality metrics for troubleshooting and optimization.</td>
-    <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-observability-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
-</table>
-
 ### 🧠 Memory
 
 <table width="100%">
@@ -309,6 +309,64 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Implement dual-memory (short-term and long-term), semantic search, and persistent state for agents that remember user preferences and learn from conversations.</td>
     <td align="center">
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+</table>
+
+### 🏗️ Full-Stack Applications
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
+  <tr>
+    <td>Full-Stack Agent Applications with Portia</td>
+    <td>Master Portia AI framework for building predictable, stateful, and authenticated agentic workflows. Includes SteelThread evaluation framework for real-time production monitoring and offline testing, with hands-on UXR data analysis and Notion integration examples.</td>
+    <td align="center">
+      <a href="tutorials/fullstack-agents-with-portia"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+</table>
+
+### 👥 Multi-agent Coordination
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
+  <tr>
+    <td>Multi-Agent Setup with Coral</td>
+    <td>Build collaborative multi-agent systems using Coral Protocol's open-source infrastructure. Learn to create specialized agents that communicate autonomously, manage user data isolation, and scale horizontally with real-time monitoring through Coral Studio.</td>
+    <td align="center">
+      <a href="tutorials/multi-agent-setup-coral"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Multi-Agent Communication with A2A Protocol</td>
+    <td>Simulate collaborative agent workflows and message exchange using open communication protocols for interoperability.</td>
+    <td align="center">
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/a2a"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+</table>
+
+### 🔍 Real-Time Monitoring
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
+  <tr>
+    <td>Agent Observability: Tracing, Monitoring & Debugging (Qualifire)</td>
+    <td>Gain end-to-end tracing, real-time monitoring, and debugging for agent workflows. Learn to capture logs, traces, and quality metrics for troubleshooting and optimization.</td>
+    <td align="center">
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-observability-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -330,22 +388,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
   </tr>
 </table>
 
-### 🔄 Orchestration
 
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
-  <tr>
-    <td>Agent Orchestration: Multi-Tool, Memory & Messaging Workflows (xpander.ai)</td>
-    <td>Learn to orchestrate tools, memory, multi-user state, and agent-to-agent messaging for production-ready AI agents. Example: Automate meeting recording and reporting workflows.</td>
-    <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agentic-applications-by-xpander.ai"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
-</table>
 
 ### 🔒 Security
 
@@ -446,23 +489,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Learn how to fine-tune language models for specialized agent behavior, domain expertise, and efficient, cost-effective responses. Covers data preparation, training, evaluation, and integration into agent workflows.</td>
     <td align="center">
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/fine-tuning-agents"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
-</table>
-
-### 👥 Multi-agent Coordination
-
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
-  <tr>
-    <td>Multi-Agent Communication with A2A Protocol</td>
-    <td>Simulate collaborative agent workflows and message exchange using open communication protocols for interoperability.</td>
-    <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/a2a"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
