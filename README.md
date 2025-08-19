@@ -26,7 +26,7 @@
 <p align="center"><em>
 Support from our sponsors helps make this project possible.<br>
 Click a logo to open the step‑by‑step tutorial.<br>
-A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click to keep this page open).
+A regular click on "Visit Site" leaves the repo (use Ctrl‑/⌘‑click to keep this page open).
 </em></p>
 
 <!-- ─────────── 1st row – 4 sponsors ─────────── -->
@@ -40,7 +40,7 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_langchain.png"
            height="44" style="max-width:180px;" alt="LangChain - AI agent framework and workflow orchestration platform for building production-ready language model applications">
     </a><br>
-    <sub><span style="white-space:nowrap;">Agent Framework &amp; Workflows</span><br>
+    <sub><span style="white-space:nowrap;">Agent Framework &amp; Workflows</span><br>
       <a href="https://langchain.com">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit LangChain AI agent framework website">
       </a>
@@ -53,33 +53,37 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_Redis.png"
            height="44" style="max-width:180px;" alt="Redis - In-memory database and vector storage for AI agent memory, caching, and real-time data processing">
     </a><br>
-    <sub><span style="white-space:nowrap;">Memory &amp; Vector Database</span><br>
+    <sub><span style="white-space:nowrap;">Memory &amp; Vector Database</span><br>
       <a href="https://redis.io/try-free/?utm_source=nir&utm_medium=cpa&utm_campaign=2025-05-ai_in_production-influencer-nir&utm_content=sd-software_download-7013z000001WaRY">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Redis in-memory database and vector storage website">
       </a>
     </sub>
   </td>
 
-  <!-- Tavily -->
+  <!-- Contextual AI -->
   <td width="200" valign="bottom">
-    <a href="tutorials/agent-with-tavily-web-access" title="Open Tavily tutorial">
-      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
-           height="44" style="max-width:180px;" alt="Tavily - Real-time web search API for AI agents with intelligent content extraction and summarization">
+    <a href="tutorials/agent-RAG-with-Contextual" title="Open Contextual AI tutorial">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_white.png">
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_contextual_black.png"
+             height="44" style="max-width:180px;" alt="Contextual AI - Production-ready RAG platform for building enterprise-grade retrieval augmented generation systems">
+      </picture>
     </a><br>
-    <sub><span style="white-space:nowrap;">Real‑time Web Search API</span><br>
-      <a href="https://app.tavily.com/home/?utm_source=github&utm_medium=referral&utm_campaign=nir_diamant">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Tavily real-time web search API website">
+    <sub><span style="white-space:nowrap;">RAG &amp; Knowledge Management</span><br>
+      <a href="https://app.contextual.ai/?utm_campaign=agents-towards-production&utm_source=diamantai&utm_medium=github&utm_content=notebook">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Contextual AI RAG platform website">
       </a>
     </sub>
   </td>
 
-  <!-- Bright Data -->
+  <!-- Bright Data -->
   <td width="200" valign="bottom">
-    <a href="tutorials/agent-with-brightdata" title="Open Bright Data tutorial">
+    <a href="tutorials/agent-with-brightdata" title="Open Bright Data tutorial">
       <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_brightdata.png"
            height="44" style="max-width:180px;" alt="Bright Data - Web scraping and data collection platform for AI training and agent data gathering">
     </a><br>
-    <sub><span style="white-space:nowrap;">Web Data Platform</span><br>
+    <sub><span style="white-space:nowrap;">Web Data Platform</span><br>
       <a href="https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_github_nirdiamant_logo">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Bright Data web scraping platform website">
       </a>
@@ -93,15 +97,32 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
        style="table-layout:fixed; width:100%; margin-top:16px; border-collapse:collapse;">
 <tr align="center" valign="top">
 
-  <!-- RunPod -->
+  <!-- Tavily -->
   <td width="200" valign="bottom">
-    <a href="tutorials/runpod-gpu-deploy" title="Open RunPod tutorial">
-      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
-           height="44" style="max-width:180px;" alt="RunPod - GPU cloud computing platform for training and deploying AI models and agents at scale">
+    <a href="tutorials/agent-with-tavily-web-access" title="Open Tavily tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_tavily.png"
+           height="44" style="max-width:180px;" alt="Tavily - Real-time web search API for AI agents with intelligent content extraction and summarization">
     </a><br>
-    <sub><span style="white-space:nowrap;">GPU Cloud Computing</span><br>
-      <a href="https://get.runpod.io/nirdiamant">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit RunPod GPU cloud computing website">
+    <sub><span style="white-space:nowrap;">Real‑time Web Search API</span><br>
+      <a href="https://app.tavily.com/home/?utm_source=github&utm_medium=referral&utm_campaign=nir_diamant">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Tavily real-time web search API website">
+      </a>
+    </sub>
+  </td>
+
+  <!-- Arcade -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/multi-user-agent-arcade" title="Open Arcade tutorial">
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_white_tight.png">
+        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_black.png"
+             height="44" style="max-width:180px;" alt="Arcade - Multi-user tool calling platform for secure OAuth2 authentication and human-in-the-loop safety controls">
+      </picture>
+    </a><br>
+    <sub><span style="white-space:nowrap;">Multi-User Tool Integration</span><br>
+      <a href="https://api.arcade.dev/signup?utm_source=github&utm_medium=notebook&utm_campaign=nir_diamant&utm_content=tutorial">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Arcade multi-user tool integration platform website">
       </a>
     </sub>
   </td>
@@ -123,19 +144,6 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
     </sub>
   </td>
 
-  <!-- Qualifire -->
-  <td width="200" valign="bottom">
-    <a href="tutorials/agent-observability-with-qualifire" title="Open Qualifire tutorial">
-      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
-           height="44" style="max-width:180px;" alt="Qualifire - AI agent security and observability platform for monitoring, tracing, and protecting agent workflows">
-    </a><br>
-    <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
-      <a href="https://app.qualifire.ai?utm=agents-towards-production">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire AI agent security platform website">
-      </a>
-    </sub>
-  </td>
-
   <!-- Coral Protocol -->
   <td width="200" valign="bottom">
     <a href="tutorials/multi-agent-setup-coral" title="Open Coral Protocol tutorial">
@@ -152,31 +160,65 @@ A regular click on “Visit Site” leaves the repo (use Ctrl‑/⌘‑click t
        </a>
     </sub>
   </td>
-
-  <!-- Anchor Browser -->
-<td width="200" valign="bottom">
-  <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
-    <picture>
-      <!-- Dark‑mode logo -->
-      <source
-        srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_dark.png"
-        media="(prefers-color-scheme: dark)">
-      <!-- Default (light‑mode) logo -->
-      <img
-        src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
-        height="20"
-        style="max-width:220px;"
-        alt="Anchor Browser - Agentic browser automation platform for AI agents to interact with web applications and extract data">
-    </picture>
-  </a><br>
-  <sub><span style="white-space:nowrap;">Agentic Browser Automation</span><br>
-    <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
-      <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser automation platform website">
-    </a>
-  </sub>
-</td>
 </tr>
 </table>
+
+<!-- ─────────── 3rd row – 3 sponsors ─────────── -->
+<table align="center" cellpadding="20"
+       style="table-layout:fixed; width:100%; margin-top:16px; border-collapse:collapse;">
+<tr align="center" valign="top">
+
+  <!-- Anchor Browser -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
+      <picture>
+        <!-- Dark‑mode logo -->
+        <source
+          srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_dark.png"
+          media="(prefers-color-scheme: dark)">
+        <!-- Default (light‑mode) logo -->
+        <img
+          src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
+          height="20"
+          style="max-width:220px;"
+          alt="Anchor Browser - Agentic browser automation platform for AI agents to interact with web applications and extract data">
+      </picture>
+    </a><br>
+    <sub><span style="white-space:nowrap;">Agentic Browser Automation</span><br>
+      <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser automation platform website">
+      </a>
+    </sub>
+  </td>
+
+  <!-- RunPod -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/runpod-gpu-deploy" title="Open RunPod tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.svg"
+           height="44" style="max-width:180px;" alt="RunPod - GPU cloud computing platform for training and deploying AI models and agents at scale">
+    </a><br>
+    <sub><span style="white-space:nowrap;">GPU Cloud Computing</span><br>
+      <a href="https://get.runpod.io/nirdiamant">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit RunPod GPU cloud computing website">
+      </a>
+    </sub>
+  </td>
+
+  <!-- Qualifire -->
+  <td width="200" valign="bottom">
+    <a href="tutorials/agent-observability-with-qualifire" title="Open Qualifire tutorial">
+      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
+           height="44" style="max-width:180px;" alt="Qualifire - AI agent security and observability platform for monitoring, tracing, and protecting agent workflows">
+    </a><br>
+    <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
+      <a href="https://app.qualifire.ai?utm=agents-towards-production">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire AI agent security platform website">
+      </a>
+    </sub>
+  </td>
+</tr>
+</table>
+
 
 <div align="center">
 
@@ -247,8 +289,9 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 | **Full lifecycle coverage** | All the capabilities required to take agents from prototype to production |
 | 🔌 **Tool Integration** | Connect agents to real-time web data, databases, and external APIs |
 | 🧠 **Memory** | Implement both short- and long-term stores with semantic search |
+| 🔍 **RAG** | Build enterprise-grade retrieval augmented generation systems |
 | 🏗️ **Full-Stack Applications** | Build complete agent applications with production-ready frameworks |
-| 👥 **Multi-agent Coordination** | Enable message passing and shared planning |
+| 👥 **Multi-agent Coordination** | Enable message passing, shared planning, and collaborative workflows |
 | 🔍 **Real-Time Monitoring** | Gain end-to-end tracing, monitoring, and debugging for agent workflows |
 | 🚀 **GPU Deployment** | Deploy to scalable GPU infrastructure for high-performance agent workloads |
 | 🔒 **Security** | Apply real-time guardrails and injection defenses |
@@ -258,6 +301,8 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 | 🔍 **Tracing & Debugging** | Add comprehensive observability to debug and improve agent performance |
 | 📊 **Evaluation** | Automate behavioral testing and metric tracking |
 | 🖥️ **UI & Frontend** | Build chat or dashboard front-ends in minutes |
+| 🌐 **Web Automation** | Enable agents to interact with web applications through browser automation |
+| 📊 **Data Collection** | Scale web scraping and data collection for AI training and agent data gathering |
 
 
 
@@ -278,6 +323,13 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Build agents that collect and process web data at scale using enterprise-grade scraping infrastructure. Learn to integrate proxy networks, handle CAPTCHAs, and extract structured data from complex websites.</td>
     <td align="center">
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-brightdata"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Multi-User Tool Calling with Arcade.dev (Arcade)</td>
+    <td>Enable agents to securely call external tools (Gmail, Slack, Notion) with OAuth2 authentication and human-in-the-loop safety controls. Learn production-ready tool integration with user isolation and approval workflows.</td>
+    <td align="center">
+      <a href="tutorials/multi-user-agent-arcade"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
@@ -309,6 +361,23 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Implement dual-memory (short-term and long-term), semantic search, and persistent state for agents that remember user preferences and learn from conversations.</td>
     <td align="center">
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+</table>
+
+### 🔍 RAG & Knowledge Management
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
+  <tr>
+    <td>Production-Ready RAG Agents with Contextual AI (Contextual AI)</td>
+    <td>Build enterprise-grade RAG systems in 15 minutes using Contextual AI's managed platform. Learn document processing, intelligent indexing, agent deployment, and automated evaluation with LMUnit testing framework for financial document analysis.</td>
+    <td align="center">
+      <a href="tutorials/agent-RAG-with-Contextual"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
