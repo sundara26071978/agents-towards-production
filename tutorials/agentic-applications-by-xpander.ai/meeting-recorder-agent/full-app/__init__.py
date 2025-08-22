@@ -1,3 +1,0 @@
-"""
-Meeting Recorder Agent Package
-""" 

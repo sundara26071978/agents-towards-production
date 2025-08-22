@@ -1,4 +1,0 @@
-xpander_sdk
-openai
-python-dotenv
-reportlab
