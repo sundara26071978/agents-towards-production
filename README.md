@@ -611,13 +611,7 @@ cd agents-towards-production
 ```
 
 **2. Install Dependencies**
-Navigate to your target tutorial and set up the environment:
-
-```bash
-# Example: Multi-tool agent orchestration
-cd tutorials/agentic-applications-by-xpander.ai
-pip install -r meeting-recorder-agent/requirements.txt
-```
+Follow the pip install cells in the tutorial notebook you're reading.
 
 **3. Deploy and Test**
 Launch tutorials through their preferred interface:
