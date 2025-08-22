@@ -281,6 +281,17 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 
 ---
 
+## 🏗️ AI Agent Architecture
+
+<div align="center">
+
+![AI Agent Architecture](assets/repos_images/ai_architecture_diagram.svg)
+
+*This diagram shows the flow of building a production-level agent. The tutorials in this repository cover each of these components step-by-step.*
+
+</div>
+
+---
 
 ## 📚 Tutorials
 
@@ -611,7 +622,13 @@ cd agents-towards-production
 ```
 
 **2. Install Dependencies**
-Follow the pip install cells in the tutorial notebook you're reading.
+Navigate to your target tutorial and set up the environment:
+
+```bash
+# Example: Multi-tool agent orchestration
+cd tutorials/agentic-applications-by-xpander.ai
+pip install -r meeting-recorder-agent/requirements.txt
+```
 
 **3. Deploy and Test**
 Launch tutorials through their preferred interface:
