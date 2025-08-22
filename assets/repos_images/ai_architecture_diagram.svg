@@ -1,253 +1,1182 @@
-<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 900 480"
+   version="1.1"
+   id="svg263"
+   sodipodi:docname="56a2d38a034909177c3a200bf0339026.svg"
+   width="900"
+   height="480"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview265"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
   <!-- Definitions for gradients, shadows, and markers -->
-  <defs>
+  <defs
+     id="defs41">
     <!-- Gradient definitions -->
-    <linearGradient id="inputGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    <linearGradient
+       id="inputGradient"
+       x1="17.68886"
+       y1="62.470309"
+       x2="169.92026"
+       y2="214.70171"
+       gradientTransform="scale(1.0660462,0.93804562)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#667eea;stop-opacity:1"
+         id="stop2" />
+      <stop
+         offset="100%"
+         style="stop-color:#764ba2;stop-opacity:1"
+         id="stop4" />
     </linearGradient>
-    
-    <linearGradient id="intelligenceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    <linearGradient
+       id="intelligenceGradient"
+       x1="166.60411"
+       y1="69.843929"
+       x2="336.80399"
+       y2="240.04381"
+       gradientTransform="scale(1.1918759,0.83901351)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#f093fb;stop-opacity:1"
+         id="stop7" />
+      <stop
+         offset="100%"
+         style="stop-color:#f5576c;stop-opacity:1"
+         id="stop9" />
     </linearGradient>
-    
-    <linearGradient id="frameworksGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    <linearGradient
+       id="frameworksGradient"
+       x1="320.36965"
+       y1="76.510191"
+       x2="506.81427"
+       y2="262.95482"
+       gradientTransform="scale(1.3056347,0.76591104)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#4facfe;stop-opacity:1"
+         id="stop12" />
+      <stop
+         offset="100%"
+         style="stop-color:#00f2fe;stop-opacity:1"
+         id="stop14" />
     </linearGradient>
-    
-    <linearGradient id="memoryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#43e97b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#38f9d7;stop-opacity:1" />
+    <linearGradient
+       id="memoryGradient"
+       x1="13.988042"
+       y1="319.7527"
+       x2="150.45153"
+       y2="456.21619"
+       gradientTransform="scale(1.3378774,0.74745264)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#43e97b;stop-opacity:1"
+         id="stop17" />
+      <stop
+         offset="100%"
+         style="stop-color:#38f9d7;stop-opacity:1"
+         id="stop19" />
     </linearGradient>
-    
-    <linearGradient id="securityGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#fa709a;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fee140;stop-opacity:1" />
+    <linearGradient
+       id="securityGradient"
+       x1="154.98809"
+       y1="337.04894"
+       x2="298.83324"
+       y2="480.89409"
+       gradientTransform="scale(1.4102466,0.70909584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#fa709a;stop-opacity:1"
+         id="stop22" />
+      <stop
+         offset="100%"
+         style="stop-color:#fee140;stop-opacity:1"
+         id="stop24" />
     </linearGradient>
-    
-    <linearGradient id="deploymentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#a8edea;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fed6e3;stop-opacity:1" />
+    <linearGradient
+       id="deploymentGradient"
+       x1="310.98917"
+       y1="337.04894"
+       x2="454.83433"
+       y2="480.89409"
+       gradientTransform="scale(1.4102466,0.70909584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         style="stop-color:#a8edea;stop-opacity:1"
+         id="stop27" />
+      <stop
+         offset="100%"
+         style="stop-color:#fed6e3;stop-opacity:1"
+         id="stop29" />
     </linearGradient>
-    
-    <linearGradient id="outputGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#d299c2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fef9d3;stop-opacity:1" />
+    <linearGradient
+       id="outputGradient"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         style="stop-color:#d299c2;stop-opacity:1"
+         id="stop32" />
+      <stop
+         offset="100%"
+         style="stop-color:#fef9d3;stop-opacity:1"
+         id="stop34" />
     </linearGradient>
-    
     <!-- Drop shadow filter -->
-    <filter id="dropshadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.1"/>
+    <filter
+       id="dropshadow"
+       x="-0.0071428571"
+       y="-0.01"
+       width="1.0142857"
+       height="1.02">
+      <feDropShadow
+         dx="0"
+         dy="2"
+         stdDeviation="4"
+         flood-color="#000000"
+         flood-opacity="0.1" />
     </filter>
-    
     <!-- Arrow marker -->
-    <marker id="arrowhead" markerWidth="8" markerHeight="6" 
-            refX="7" refY="3" orient="auto">
-      <polygon points="0 0, 8 3, 0 6" fill="#4a5568" />
+    <marker
+       id="arrowhead"
+       markerWidth="8"
+       markerHeight="6"
+       refX="7"
+       refY="3"
+       orient="auto">
+      <polygon
+         points="8,3 0,6 0,0 "
+         fill="#4a5568"
+         id="polygon38" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#outputGradient"
+       id="linearGradient267"
+       x1="12.511285"
+       y1="567.20448"
+       x2="134.56794"
+       y2="689.26114"
+       gradientTransform="scale(1.4957924,0.66854197)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#outputGradient"
+       id="linearGradient269"
+       x1="569.3306"
+       y1="69.843929"
+       x2="739.53047"
+       y2="240.04381"
+       gradientTransform="scale(1.1918759,0.83901351)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-  
   <!-- Background -->
-  <rect width="900" height="480" fill="#ffffff"/>
-  
+  <rect
+     width="900"
+     height="480"
+     fill="#ffffff"
+     id="rect43"
+     x="0"
+     y="0" />
   <!-- Title -->
-  <text x="450" y="25" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#2d3748">AI Agent Production Architecture</text>
-  
+  <text
+     x="450"
+     y="25"
+     text-anchor="middle"
+     font-family="'Segoe UI', sans-serif"
+     font-size="20px"
+     font-weight="700"
+     fill="#2d3748"
+     id="text45">AI Agent Production Architecture</text>
   <!-- INPUT SOURCES -->
-  <g id="input-section">
-    <rect x="20" y="60" width="160" height="140" rx="8" fill="url(#inputGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="100" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">📥 INPUT</text>
-    
-    <rect x="30" y="90" width="65" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="62" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#333">👤 Users</text>
-    
-    <rect x="105" y="90" width="65" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="137" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#333">🌐 Web</text>
-    
-    <rect x="30" y="125" width="65" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="62" y="140" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#333">📄 Docs</text>
-    
-    <rect x="105" y="125" width="65" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="137" y="140" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#333">🔌 APIs</text>
-    
-    <rect x="30" y="160" width="140" height="25" rx="4" fill="#E91E63" filter="url(#dropshadow)"/>
-    <text x="100" y="175" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="white">🔧 MCP Protocol</text>
+  <g
+     id="input-section">
+    <rect
+       x="20"
+       y="60"
+       width="160"
+       height="140"
+       rx="8"
+       fill="url(#inputGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect47"
+       style="fill:url(#inputGradient)" />
+    <text
+       x="100"
+       y="80"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text49">📥 INPUT</text>
+    <rect
+       x="30"
+       y="90"
+       width="65"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect51" />
+    <text
+       x="62"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="10px"
+       font-weight="600"
+       fill="#333333"
+       id="text53">👤 Users</text>
+    <rect
+       x="105"
+       y="90"
+       width="65"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect55" />
+    <text
+       x="137"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="10px"
+       font-weight="600"
+       fill="#333333"
+       id="text57">🌐 Web</text>
+    <rect
+       x="30"
+       y="125"
+       width="65"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect59" />
+    <text
+       x="62"
+       y="140"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="10px"
+       font-weight="600"
+       fill="#333333"
+       id="text61">📄 Docs</text>
+    <rect
+       x="105"
+       y="125"
+       width="65"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect63" />
+    <text
+       x="137"
+       y="140"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="10px"
+       font-weight="600"
+       fill="#333333"
+       id="text65">🔌 APIs</text>
+    <rect
+       x="30"
+       y="160"
+       width="140"
+       height="25"
+       rx="4"
+       fill="#e91e63"
+       filter="url(#dropshadow)"
+       id="rect67" />
+    <text
+       x="100"
+       y="175"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text69">🔧 MCP Protocol</text>
   </g>
-  
   <!-- DATA & INTELLIGENCE -->
-  <g id="intelligence-section">
-    <rect x="200" y="60" width="200" height="140" rx="8" fill="url(#intelligenceGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="300" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">🧠 DATA & INTELLIGENCE</text>
-    
-    <rect x="210" y="90" width="85" height="35" rx="4" fill="#4CAF50" filter="url(#dropshadow)"/>
-    <text x="252" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🕷️ BRIGHT DATA</text>
-    <text x="252" y="116" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">Web Scraping</text>
-    
-    <rect x="305" y="90" width="85" height="35" rx="4" fill="#2196F3" filter="url(#dropshadow)"/>
-    <text x="347" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">📚 CONTEXTUAL AI</text>
-    <text x="347" y="116" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">RAG Platform</text>
-    
-    <rect x="210" y="135" width="85" height="35" rx="4" fill="#FFC107" filter="url(#dropshadow)"/>
-    <text x="252" y="150" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="#333">🔍 TAVILY</text>
-    <text x="252" y="161" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="#333">Web Search</text>
-    
-    <rect x="305" y="135" width="85" height="35" rx="4" fill="#8BC34A" filter="url(#dropshadow)"/>
-    <text x="347" y="150" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🌏 ANCHOR</text>
-    <text x="347" y="161" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">Browser Auto</text>
+  <g
+     id="intelligence-section">
+    <rect
+       x="200"
+       y="60"
+       width="200"
+       height="140"
+       rx="8"
+       fill="url(#intelligenceGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect72"
+       style="fill:url(#intelligenceGradient)" />
+    <text
+       x="300"
+       y="80"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text74">🧠 DATA INTELLIGENCE</text>
+    <rect
+       x="210"
+       y="90"
+       width="85"
+       height="35"
+       rx="4"
+       fill="#4caf50"
+       filter="url(#dropshadow)"
+       id="rect76" />
+    <text
+       x="252"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text78">🕷️ BRIGHT DATA</text>
+    <text
+       x="252"
+       y="116"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text80">Web Scraping</text>
+    <rect
+       x="305"
+       y="90"
+       width="85"
+       height="35"
+       rx="4"
+       fill="#2196f3"
+       filter="url(#dropshadow)"
+       id="rect82" />
+    <text
+       x="347"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text84">📚 CONTEXTUAL AI</text>
+    <text
+       x="347"
+       y="116"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text86">RAG Platform</text>
+    <rect
+       x="210"
+       y="135"
+       width="85"
+       height="35"
+       rx="4"
+       fill="#ffc107"
+       filter="url(#dropshadow)"
+       id="rect88" />
+    <text
+       x="252"
+       y="150"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#333333"
+       id="text90">🔍 TAVILY</text>
+    <text
+       x="252"
+       y="161"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#333333"
+       id="text92">Web Search</text>
+    <rect
+       x="305"
+       y="135"
+       width="85"
+       height="35"
+       rx="4"
+       fill="#8bc34a"
+       filter="url(#dropshadow)"
+       id="rect94" />
+    <text
+       x="347"
+       y="150"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text96">🌏 ANCHOR</text>
+    <text
+       x="347"
+       y="161"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text98">Browser Auto</text>
   </g>
-  
   <!-- FRAMEWORKS -->
-  <g id="frameworks-section">
-    <rect x="420" y="60" width="240" height="140" rx="8" fill="url(#frameworksGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="540" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">⚙️ AGENT FRAMEWORKS</text>
-    
-    <rect x="430" y="90" width="70" height="35" rx="4" fill="#9C27B0" filter="url(#dropshadow)"/>
-    <text x="465" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🎮 ARCADE</text>
-    <text x="465" y="116" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">Multi-user</text>
-    
-    <rect x="510" y="90" width="70" height="35" rx="4" fill="#FF9800" filter="url(#dropshadow)"/>
-    <text x="545" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🏗️ PORTIA</text>
-    <text x="545" y="116" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">Full-stack</text>
-    
-    <rect x="590" y="90" width="60" height="35" rx="4" fill="#795548" filter="url(#dropshadow)"/>
-    <text x="620" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">📊 LANG</text>
-    <text x="620" y="116" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">GRAPH</text>
-    
-    <rect x="430" y="135" width="70" height="35" rx="4" fill="#00BCD4" filter="url(#dropshadow)"/>
-    <text x="465" y="150" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🤝 CORAL</text>
-    <text x="465" y="161" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">Multi-agent</text>
-    
-    <rect x="510" y="135" width="70" height="35" rx="4" fill="#607D8B" filter="url(#dropshadow)"/>
-    <text x="545" y="150" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🔗 A2A</text>
-    <text x="545" y="161" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">Protocol</text>
-    
-    <rect x="590" y="135" width="60" height="35" rx="4" fill="#3F51B5" filter="url(#dropshadow)"/>
-    <text x="620" y="150" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">⚡ FAST</text>
-    <text x="620" y="161" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="7" fill="white">API</text>
+  <g
+     id="frameworks-section">
+    <rect
+       x="420"
+       y="60"
+       width="240"
+       height="140"
+       rx="8"
+       fill="url(#frameworksGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect101"
+       style="fill:url(#frameworksGradient)" />
+    <text
+       x="540"
+       y="80"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text103">⚙️ AGENT FRAMEWORKS</text>
+    <rect
+       x="430"
+       y="90"
+       width="70"
+       height="35"
+       rx="4"
+       fill="#9c27b0"
+       filter="url(#dropshadow)"
+       id="rect105" />
+    <text
+       x="465"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text107">🎮 ARCADE</text>
+    <text
+       x="465"
+       y="116"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text109">Multi-user</text>
+    <rect
+       x="510"
+       y="90"
+       width="70"
+       height="35"
+       rx="4"
+       fill="#ff9800"
+       filter="url(#dropshadow)"
+       id="rect111" />
+    <text
+       x="545"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text113">🏗️ PORTIA</text>
+    <text
+       x="545"
+       y="116"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text115">Full-stack</text>
+    <rect
+       x="590"
+       y="90"
+       width="60"
+       height="35"
+       rx="4"
+       fill="#795548"
+       filter="url(#dropshadow)"
+       id="rect117" />
+    <text
+       x="620"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text119">📊 LANG</text>
+    <text
+       x="620"
+       y="116"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text121">GRAPH</text>
+    <rect
+       x="430"
+       y="135"
+       width="70"
+       height="35"
+       rx="4"
+       fill="#00bcd4"
+       filter="url(#dropshadow)"
+       id="rect123" />
+    <text
+       x="465"
+       y="150"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text125">🤝 CORAL</text>
+    <text
+       x="465"
+       y="161"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text127">Multi-agent</text>
+    <rect
+       x="510"
+       y="135"
+       width="70"
+       height="35"
+       rx="4"
+       fill="#607d8b"
+       filter="url(#dropshadow)"
+       id="rect129" />
+    <text
+       x="545"
+       y="150"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text131">🔗 A2A</text>
+    <text
+       x="545"
+       y="161"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text133">Protocol</text>
+    <rect
+       x="590"
+       y="135"
+       width="60"
+       height="35"
+       rx="4"
+       fill="#3f51b5"
+       filter="url(#dropshadow)"
+       id="rect135" />
+    <text
+       x="620"
+       y="150"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text137">⚡ FAST</text>
+    <text
+       x="620"
+       y="161"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="7px"
+       fill="#ffffff"
+       id="text139">API</text>
   </g>
-  
   <!-- MEMORY & STATE -->
-  <g id="memory-section">
-    <rect x="20" y="240" width="180" height="100" rx="8" fill="url(#memoryGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="110" y="260" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">💾 MEMORY</text>
-    
-    <rect x="30" y="270" width="80" height="50" rx="4" fill="#F44336" filter="url(#dropshadow)"/>
-    <text x="70" y="290" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="white">🔴 REDIS</text>
-    <text x="70" y="305" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" fill="white">Dual Memory</text>
-    
-    <rect x="120" y="270" width="70" height="50" rx="4" fill="white" stroke="#ddd" stroke-width="1" filter="url(#dropshadow)"/>
-    <text x="155" y="290" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#666">Vector</text>
-    <text x="155" y="305" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" fill="#666">Storage</text>
+  <g
+     id="memory-section">
+    <rect
+       x="20"
+       y="240"
+       width="180"
+       height="100"
+       rx="8"
+       fill="url(#memoryGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect142"
+       style="fill:url(#memoryGradient)" />
+    <text
+       x="110"
+       y="260"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text144">💾 MEMORY</text>
+    <rect
+       x="30"
+       y="270"
+       width="80"
+       height="50"
+       rx="4"
+       fill="#f44336"
+       filter="url(#dropshadow)"
+       id="rect146" />
+    <text
+       x="70"
+       y="290"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text148">🔴 REDIS</text>
+    <text
+       x="70"
+       y="305"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       fill="#ffffff"
+       id="text150">Dual Memory</text>
+    <rect
+       x="120"
+       y="270"
+       width="70"
+       height="50"
+       rx="4"
+       fill="#ffffff"
+       stroke="#dddddd"
+       stroke-width="1"
+       filter="url(#dropshadow)"
+       id="rect152" />
+    <text
+       x="155"
+       y="290"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#666666"
+       id="text154">Vector</text>
+    <text
+       x="155"
+       y="305"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       fill="#666666"
+       id="text156">Storage</text>
   </g>
-  
   <!-- SECURITY -->
-  <g id="security-section">
-    <rect x="220" y="240" width="200" height="100" rx="8" fill="url(#securityGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="320" y="260" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">🛡️ SECURITY</text>
-    
-    <rect x="230" y="270" width="55" height="30" rx="4" fill="#E91E63" filter="url(#dropshadow)"/>
-    <text x="257" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🔥 QUALI</text>
-    
-    <rect x="295" y="270" width="55" height="30" rx="4" fill="#9E9E9E" filter="url(#dropshadow)"/>
-    <text x="322" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🦙 LLAMA</text>
-    
-    <rect x="360" y="270" width="50" height="30" rx="4" fill="#FF5722" filter="url(#dropshadow)"/>
-    <text x="385" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">⚔️ APEX</text>
-    
-    <text x="320" y="320" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" fill="#666">Guardrails • Testing • Comprehensive</text>
+  <g
+     id="security-section">
+    <rect
+       x="220"
+       y="240"
+       width="200"
+       height="100"
+       rx="8"
+       fill="url(#securityGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect159"
+       style="fill:url(#securityGradient)" />
+    <text
+       x="320"
+       y="260"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text161">🛡️ SECURITY</text>
+    <rect
+       x="230"
+       y="270"
+       width="55"
+       height="30"
+       rx="4"
+       fill="#e91e63"
+       filter="url(#dropshadow)"
+       id="rect163" />
+    <text
+       x="257"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text165">🔥 QUALI</text>
+    <rect
+       x="295"
+       y="270"
+       width="55"
+       height="30"
+       rx="4"
+       fill="#9e9e9e"
+       filter="url(#dropshadow)"
+       id="rect167" />
+    <text
+       x="322"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text169">🦙 LLAMA</text>
+    <rect
+       x="360"
+       y="270"
+       width="50"
+       height="30"
+       rx="4"
+       fill="#ff5722"
+       filter="url(#dropshadow)"
+       id="rect171" />
+    <text
+       x="385"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text173">⚔️ APEX</text>
+    <text
+       x="320"
+       y="320"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       fill="#666666"
+       id="text175">Guardrails • Testing • Comprehensive</text>
   </g>
-  
   <!-- DEPLOYMENT -->
-  <g id="deployment-section">
-    <rect x="440" y="240" width="200" height="100" rx="8" fill="url(#deploymentGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="540" y="260" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">🚀 DEPLOYMENT</text>
-    
-    <rect x="450" y="270" width="45" height="30" rx="4" fill="#673AB7" filter="url(#dropshadow)"/>
-    <text x="472" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">⚡ GPU</text>
-    
-    <rect x="505" y="270" width="45" height="30" rx="4" fill="#2196F3" filter="url(#dropshadow)"/>
-    <text x="527" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🐳 DOC</text>
-    
-    <rect x="560" y="270" width="35" height="30" rx="4" fill="#4CAF50" filter="url(#dropshadow)"/>
-    <text x="577" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🦙</text>
-    
-    <rect x="605" y="270" width="25" height="30" rx="4" fill="#FF9800" filter="url(#dropshadow)"/>
-    <text x="617" y="288" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🔧</text>
-    
-    <text x="540" y="320" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" fill="#666">RunPod • Docker • Ollama • Fine-tuning</text>
+  <g
+     id="deployment-section">
+    <rect
+       x="440"
+       y="240"
+       width="200"
+       height="100"
+       rx="8"
+       fill="url(#deploymentGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect178"
+       style="fill:url(#deploymentGradient)" />
+    <text
+       x="540"
+       y="260"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text180">🚀 DEPLOYMENT</text>
+    <rect
+       x="450"
+       y="270"
+       width="45"
+       height="30"
+       rx="4"
+       fill="#673ab7"
+       filter="url(#dropshadow)"
+       id="rect182" />
+    <text
+       x="472"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text184">⚡ GPU</text>
+    <rect
+       x="505"
+       y="270"
+       width="45"
+       height="30"
+       rx="4"
+       fill="#2196f3"
+       filter="url(#dropshadow)"
+       id="rect186" />
+    <text
+       x="527"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text188">🐳 DOC</text>
+    <rect
+       x="560"
+       y="270"
+       width="35"
+       height="30"
+       rx="4"
+       fill="#4caf50"
+       filter="url(#dropshadow)"
+       id="rect190" />
+    <text
+       x="577"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text192">🦙</text>
+    <rect
+       x="605"
+       y="270"
+       width="25"
+       height="30"
+       rx="4"
+       fill="#ff9800"
+       filter="url(#dropshadow)"
+       id="rect194" />
+    <text
+       x="617"
+       y="288"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text196">🔧</text>
+    <text
+       x="540"
+       y="320"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       fill="#666666"
+       id="text198">RunPod • Docker • Ollama • Fine-tuning</text>
   </g>
-  
   <!-- MONITORING -->
-  <g id="monitoring-section">
-    <rect x="20" y="380" width="180" height="80" rx="8" fill="url(#outputGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="110" y="400" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">🔍 MONITORING</text>
-    
-    <rect x="30" y="410" width="70" height="30" rx="4" fill="#9C27B0" filter="url(#dropshadow)"/>
-    <text x="65" y="428" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🔬 LANGSMITH</text>
-    
-    <rect x="110" y="410" width="80" height="30" rx="4" fill="#00BCD4" filter="url(#dropshadow)"/>
-    <text x="150" y="428" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="600" fill="white">🧠 INTELLAGENT</text>
-    
-    <text x="110" y="455" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="8" fill="#666">Tracing • Evaluation</text>
+  <g
+     id="monitoring-section">
+    <rect
+       x="20"
+       y="380"
+       width="180"
+       height="80"
+       rx="8"
+       fill="url(#outputGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect201"
+       style="fill:url(#linearGradient267)" />
+    <text
+       x="110"
+       y="400"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text203">🔍 MONITORING</text>
+    <rect
+       x="30"
+       y="410"
+       width="70"
+       height="30"
+       rx="4"
+       fill="#9c27b0"
+       filter="url(#dropshadow)"
+       id="rect205" />
+    <text
+       x="65"
+       y="428"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text207">🔬 LANGSMITH</text>
+    <rect
+       x="110"
+       y="410"
+       width="80"
+       height="30"
+       rx="4"
+       fill="#00bcd4"
+       filter="url(#dropshadow)"
+       id="rect209" />
+    <text
+       x="150"
+       y="428"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       font-weight="600"
+       fill="#ffffff"
+       id="text211">🧠 INTELLAGENT</text>
+    <text
+       x="110"
+       y="455"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="8px"
+       fill="#666666"
+       id="text213">Tracing • Evaluation</text>
   </g>
-  
   <!-- OUTPUTS -->
-  <g id="output-section">
-    <rect x="680" y="60" width="200" height="140" rx="8" fill="url(#outputGradient)" filter="url(#dropshadow)" opacity="0.15"/>
-    <text x="780" y="80" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#2d3748">📤 OUTPUTS</text>
-    
-    <rect x="690" y="90" width="80" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="730" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#333">🖥️ Streamlit UI</text>
-    
-    <rect x="790" y="90" width="80" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="830" y="105" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#333">🔗 APIs</text>
-    
-    <rect x="690" y="125" width="80" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="730" y="140" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#333">💬 Messages</text>
-    
-    <rect x="790" y="125" width="80" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="830" y="140" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#333">📱 Apps</text>
-    
-    <rect x="740" y="160" width="80" height="25" rx="4" fill="white" filter="url(#dropshadow)"/>
-    <text x="780" y="175" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="600" fill="#333">🔄 Workflows</text>
+  <g
+     id="output-section">
+    <rect
+       x="680"
+       y="60"
+       width="200"
+       height="140"
+       rx="8"
+       fill="url(#outputGradient)"
+       filter="url(#dropshadow)"
+       opacity="0.15"
+       id="rect216"
+       style="fill:url(#linearGradient269)" />
+    <text
+       x="780"
+       y="80"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="12px"
+       font-weight="700"
+       fill="#2d3748"
+       id="text218">📤 OUTPUTS</text>
+    <rect
+       x="690"
+       y="90"
+       width="80"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect220" />
+    <text
+       x="730"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#333333"
+       id="text222">🖥️ Streamlit UI</text>
+    <rect
+       x="790"
+       y="90"
+       width="80"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect224" />
+    <text
+       x="830"
+       y="105"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#333333"
+       id="text226">🔗 APIs</text>
+    <rect
+       x="690"
+       y="125"
+       width="80"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect228" />
+    <text
+       x="730"
+       y="140"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#333333"
+       id="text230">💬 Messages</text>
+    <rect
+       x="790"
+       y="125"
+       width="80"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect232" />
+    <text
+       x="830"
+       y="140"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#333333"
+       id="text234">📱 Apps</text>
+    <rect
+       x="740"
+       y="160"
+       width="80"
+       height="25"
+       rx="4"
+       fill="#ffffff"
+       filter="url(#dropshadow)"
+       id="rect236" />
+    <text
+       x="780"
+       y="175"
+       text-anchor="middle"
+       font-family="'Segoe UI', sans-serif"
+       font-size="9px"
+       font-weight="600"
+       fill="#333333"
+       id="text238">🔄 Workflows</text>
   </g>
-  
-
-  
   <!-- Main Data Flow -->
   <!-- INPUT → DATA & INTELLIGENCE -->
-  <path d="M 180 130 L 200 130" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
+  <path
+     d="m 180,130 h 20"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     id="path241" />
   <!-- DATA & INTELLIGENCE → FRAMEWORKS -->
-  <path d="M 400 130 L 420 130" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
+  <path
+     d="m 400,130 h 20"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     id="path243" />
   <!-- FRAMEWORKS → OUTPUTS -->
-  <path d="M 660 130 L 680 130" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
-  
+  <path
+     d="m 660,130 h 20"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     id="path245" />
   <!-- Supporting Infrastructure Flows -->
   <!-- FRAMEWORKS ↔ MEMORY (bidirectional) -->
-  <path d="M 480 200 Q 350 220 150 270" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)" opacity="0.7"/>
-  <path d="M 140 280 Q 300 220 450 200" stroke="#4a5568" stroke-width="1" fill="none" marker-end="url(#arrowhead)" opacity="0.5" stroke-dasharray="2,2"/>
-  
+  <path
+     d="M 480,200 Q 350,220 150,270"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.7"
+     id="path247" />
+  <path
+     d="M 140,280 Q 300,220 450,200"
+     stroke="#4a5568"
+     stroke-width="1"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.5"
+     stroke-dasharray="2, 2"
+     id="path249" />
   <!-- FRAMEWORKS → DEPLOYMENT -->
-  <path d="M 540 200 L 540 240" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)" opacity="0.7"/>
-  
+  <path
+     d="m 540,200 v 40"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.7"
+     id="path251" />
   <!-- FRAMEWORKS → SECURITY (protection) -->
-  <path d="M 460 150 Q 380 200 320 270" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)" opacity="0.7"/>
-  
+  <path
+     d="M 460,150 Q 380,200 320,270"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.7"
+     id="path253" />
   <!-- DEPLOYMENT → MONITORING -->
-  <path d="M 500 340 Q 350 360 150 410" stroke="#4a5568" stroke-width="2" fill="none" marker-end="url(#arrowhead)" opacity="0.7"/>
-  
+  <path
+     d="M 500,340 Q 350,360 150,410"
+     stroke="#4a5568"
+     stroke-width="2"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.7"
+     id="path255" />
   <!-- MONITORING → FRAMEWORKS (feedback loop) -->
-  <path d="M 110 380 Q 200 300 450 180" stroke="#4a5568" stroke-width="1" fill="none" marker-end="url(#arrowhead)" opacity="0.5" stroke-dasharray="2,2"/>
-  
+  <path
+     d="M 110,380 Q 200,300 450,180"
+     stroke="#4a5568"
+     stroke-width="1"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.5"
+     stroke-dasharray="2, 2"
+     id="path257" />
   <!-- SECURITY → FRAMEWORKS (guardrails feedback) -->
-  <path d="M 320 270 Q 380 200 460 170" stroke="#4a5568" stroke-width="1" fill="none" marker-end="url(#arrowhead)" opacity="0.5" stroke-dasharray="2,2"/>
-  
+  <path
+     d="M 320,270 Q 380,200 460,170"
+     stroke="#4a5568"
+     stroke-width="1"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.5"
+     stroke-dasharray="2, 2"
+     id="path259" />
   <!-- Direct INPUT → FRAMEWORKS (API calls) -->
-  <path d="M 140 100 Q 280 80 460 120" stroke="#4a5568" stroke-width="1" fill="none" marker-end="url(#arrowhead)" opacity="0.5" stroke-dasharray="3,3"/>
-  
-
+  <path
+     d="M 140,100 Q 280,80 460,120"
+     stroke="#4a5568"
+     stroke-width="1"
+     fill="none"
+     marker-end="url(#arrowhead)"
+     opacity="0.5"
+     stroke-dasharray="3, 3"
+     id="path261" />
 </svg>
