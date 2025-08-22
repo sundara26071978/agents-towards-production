@@ -285,7 +285,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 
 <div align="center">
 
-![AI Agent Architecture](assets/repos_images/ai_architecture_diagram.svg)
+![AI Agent Architecture - Production-ready AI agent development workflow showing orchestration, memory, tools, security, observability, evaluation, and deployment components](assets/repos_images/ai_architecture_diagram.svg)
 
 *This diagram shows the flow of building a production-level agent. The tutorials in this repository cover each of these components step-by-step.*
 
