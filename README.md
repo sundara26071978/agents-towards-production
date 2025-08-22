@@ -281,32 +281,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 
 ---
 
-## 🔑 Key Features
-
-| | |
-|---|---|
-| **Tutorial-first learning** | Every topic comes with a practical walkthrough you can run locally |
-| **Full lifecycle coverage** | All the capabilities required to take agents from prototype to production |
-| 🔌 **Tool Integration** | Connect agents to real-time web data, databases, and external APIs |
-| 🧠 **Memory** | Implement both short- and long-term stores with semantic search |
-| 🔍 **RAG** | Build enterprise-grade retrieval augmented generation systems |
-| 🏗️ **Full-Stack Applications** | Build complete agent applications with production-ready frameworks |
-| 👥 **Multi-agent Coordination** | Enable message passing, shared planning, and collaborative workflows |
-| 🔍 **Real-Time Monitoring** | Gain end-to-end tracing, monitoring, and debugging for agent workflows |
-| 🚀 **GPU Deployment** | Deploy to scalable GPU infrastructure for high-performance agent workloads |
-| 🔒 **Security** | Apply real-time guardrails and injection defenses |
-| 🧩 **Agent Frameworks** | Create stateful graphs, expose agents as REST endpoints, and package reusable tools |
-| 🚀 **Deployment** | Ship to containers and on-prem servers with containerization patterns |
-| 🛠️ **Model Customization** | Fine-tune language models for specialized agent behavior and domain expertise |
-| 🔍 **Tracing & Debugging** | Add comprehensive observability to debug and improve agent performance |
-| 📊 **Evaluation** | Automate behavioral testing and metric tracking |
-| 🖥️ **UI & Frontend** | Build chat or dashboard front-ends in minutes |
-| 🌐 **Web Automation** | Enable agents to interact with web applications through browser automation |
-| 📊 **Data Collection** | Scale web scraping and data collection for AI training and agent data gathering |
-
-
-
----
 
 ## 📚 Tutorials
 
