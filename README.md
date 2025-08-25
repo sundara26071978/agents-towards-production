@@ -112,7 +112,7 @@ A regular click on "Visit Site" leaves the repo (use Ctrl‑/⌘‑click to keep
 
   <!-- Arcade -->
   <td width="200" valign="bottom">
-    <a href="tutorials/multi-user-agent-arcade" title="Open Arcade tutorial">
+    <a href="tutorials/arcade-secure-tool-calling" title="Open Arcade tutorial">
       <picture>
         <source media="(prefers-color-scheme: dark)"
                 srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_arcade_white_tight.png">
@@ -311,10 +311,10 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     </td>
   </tr>
   <tr>
-    <td>Multi-User Tool Calling with Arcade.dev (Arcade)</td>
+    <td>Secure Tool Calling with Arcade.dev (Arcade)</td>
     <td>Enable agents to securely call external tools (Gmail, Slack, Notion) with OAuth2 authentication and human-in-the-loop safety controls. Learn production-ready tool integration with user isolation and approval workflows.</td>
     <td align="center">
-      <a href="tutorials/multi-user-agent-arcade"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="tutorials/arcade-secure-tool-calling"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
