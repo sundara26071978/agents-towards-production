@@ -120,7 +120,7 @@ A regular click on "Visit Site" leaves the repo (use Ctrl‑/⌘‑click to keep
              height="44" style="max-width:180px;" alt="Arcade - Multi-user tool calling platform for secure OAuth2 authentication and human-in-the-loop safety controls">
       </picture>
     </a><br>
-    <sub><span style="white-space:nowrap;">Multi-User Tool Integration</span><br>
+    <sub><span style="white-space:nowrap;">Secure Tool Calling</span><br>
       <a href="https://api.arcade.dev/signup?utm_source=github&utm_medium=notebook&utm_campaign=nir_diamant&utm_content=tutorial">
         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Arcade multi-user tool integration platform website">
       </a>
@@ -311,7 +311,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     </td>
   </tr>
   <tr>
-    <td>Secure Tool Calling with Arcade.dev (Arcade)</td>
+    <td>Secure Tool Calling (Arcade)</td>
     <td>Enable agents to securely call external tools (Gmail, Slack, Notion) with OAuth2 authentication and human-in-the-loop safety controls. Learn production-ready tool integration with user isolation and approval workflows.</td>
     <td align="center">
       <a href="tutorials/arcade-secure-tool-calling"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
