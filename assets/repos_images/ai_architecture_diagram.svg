@@ -59,6 +59,11 @@
     AI Agent Production Architecture
   </text>
   
+  <!-- Subtitle -->
+  <text x="500" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">
+    Agents-Towards-Production repo by DiamantAI
+  </text>
+  
   <!-- LAYER 1: INPUT FLOW (Top Row) -->
   
   <!-- INPUT SOURCES -->
