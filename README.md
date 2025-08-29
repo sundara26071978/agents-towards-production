@@ -295,6 +295,23 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
 
 ## 📚 Tutorials
 
+### 🏗️ Full-Stack Applications
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
+  <tr>
+    <td>Full-Stack Agent Applications with Portia</td>
+    <td>Master Portia AI framework for building predictable, stateful, and authenticated agentic workflows. Includes SteelThread evaluation framework for real-time production monitoring and offline testing, with hands-on UXR data analysis and Notion integration examples.</td>
+    <td align="center">
+      <a href="tutorials/fullstack-agents-with-portia"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+</table>
+
 ### 🔌 Tool Integration
 
 <table width="100%">
@@ -363,23 +380,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Build enterprise-grade RAG systems in 15 minutes using Contextual AI's managed platform. Learn document processing, intelligent indexing, agent deployment, and automated evaluation with LMUnit testing framework for financial document analysis.</td>
     <td align="center">
       <a href="tutorials/agent-RAG-with-Contextual"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
-</table>
-
-### 🏗️ Full-Stack Applications
-
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
-  <tr>
-    <td>Full-Stack Agent Applications with Portia</td>
-    <td>Master Portia AI framework for building predictable, stateful, and authenticated agentic workflows. Includes SteelThread evaluation framework for real-time production monitoring and offline testing, with hands-on UXR data analysis and Notion integration examples.</td>
-    <td align="center">
-      <a href="tutorials/fullstack-agents-with-portia"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
