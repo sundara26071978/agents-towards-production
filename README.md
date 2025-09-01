@@ -144,22 +144,7 @@ A regular click on "Visit Site" leaves the repo (use Ctrl‑/⌘‑click to keep
     </sub>
   </td>
 
-  <!-- Coral Protocol -->
-  <td width="200" valign="bottom">
-    <a href="tutorials/multi-agent-setup-coral" title="Open Coral Protocol tutorial">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-                srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_coral_white.png">
-        <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_coral_black.png"
-             height="44" style="max-width:180px;" alt="Coral Protocol - Open-source collaboration infrastructure for AI agents and production software service systems">
-      </picture>
-    </a><br>
-    <sub><span style="white-space:nowrap;">Multi-Agent Infrastructure</span><br>
-             <a href="https://docs.coralprotocol.org/CoralDoc/Introduction/UsingAgents#devmode?utm_source=github&utm_medium=referral&utm_campaign=nir_github&utm_id=nir_coralprotocol">
-         <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Coral Protocol website">
-       </a>
-    </sub>
-  </td>
+
 </tr>
 </table>
 
@@ -392,13 +377,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <th width="50%">Description</th>
     <th width="20%">View</th>
   </tr>
-  <tr>
-    <td>Multi-Agent Setup with Coral</td>
-    <td>Build collaborative multi-agent systems using Coral Protocol's open-source infrastructure. Learn to create specialized agents that communicate autonomously, manage user data isolation, and scale horizontally with real-time monitoring through Coral Studio.</td>
-    <td align="center">
-      <a href="tutorials/multi-agent-setup-coral"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
+
   <tr>
     <td>Multi-Agent Communication with A2A Protocol</td>
     <td>Simulate collaborative agent workflows and message exchange using open communication protocols for interoperability.</td>
