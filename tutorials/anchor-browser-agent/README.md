@@ -7,7 +7,7 @@
 Build AI agents that interact with web applications seamlessly using **Anchor Browser Agent** - a cloud-based browser automation platform. No local browser installation required - everything runs in the cloud with AI-powered interactions, session management, and proxy support.
 
 <div align="center">
-<img src="assets/dashboard.png" alt="Anchor Browser Agent Dashboard" width="600"/>
+<img src="assets/data-collection-diagram.png" alt="Anchor Browser Agent Data Collection Workflow" width="600"/>
 </div>
 
 ## What You'll Learn

@@ -7,7 +7,7 @@
 Build intelligent web scraping agents that can search, extract, and analyze data from any website. Combine LangGraph's ReAct framework with Bright Data's industry-leading web scraping capabilities to create production-ready systems for data collection, market research, and competitive analysis.
 
 <div align="center">
-<img src="assets/Settings.png" alt="Bright Data Dashboard" width="600"/>
+<img src="assets/Signup.png" alt="Bright Data Web Scraping Platform" width="600"/>
 </div>
 
 ## What You'll Learn

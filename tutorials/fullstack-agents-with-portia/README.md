@@ -7,7 +7,7 @@
 Build production-ready agent workflows with **Portia AI** - an open-source framework for creating predictable, stateful, and authenticated multi-agent systems. You'll create an intelligent agent that analyzes user experience research data and automatically organizes findings in Notion.
 
 <div align="center">
-<img src="notion.gif" alt="Portia AI Agent in Action" width="600"/>
+<img src="img/create_evals.gif" alt="Portia AI Agent Creating Evaluations" width="600"/>
 </div>
 
 ## What You'll Learn

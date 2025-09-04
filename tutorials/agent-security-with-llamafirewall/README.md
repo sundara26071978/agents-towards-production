@@ -7,7 +7,7 @@
 Protect your AI agents from security threats using **LlamaFirewall** - an open-source security framework that provides comprehensive guardrails for production AI systems. Learn to implement input validation, output monitoring, and tool security to build secure, production-ready agents.
 
 <div align="center">
-<img src="assets/input-guardrail.png" alt="LlamaFirewall Security Dashboard" width="600"/>
+<img src="assets/tools-security.png" alt="LlamaFirewall Tools Security Interface" width="600"/>
 </div>
 
 ## What You'll Learn
