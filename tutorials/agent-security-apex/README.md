@@ -6,9 +6,6 @@
 
 Learn prompt injection attacks and defenses through hands-on security testing of AI systems. Instead of just reading about vulnerabilities, you'll actually exploit them and then build protections against them using real attack datasets and automated testing tools.
 
-<div align="center">
-<img src="assets/security-testing-dashboard.png" alt="Agent Security Testing Dashboard" width="600"/>
-</div>
 
 ## What You'll Learn
 

@@ -6,9 +6,6 @@
 
 Build AI agents that actually work in production with multiple users. Learn to implement secure authentication, safety controls, and real service integration using Arcade.dev - bridging the gap between local demos and production-ready systems.
 
-<div align="center">
-<img src="assets/arcade-dashboard.png" alt="Arcade.dev Multi-User Agent Dashboard" width="600"/>
-</div>
 
 ## What You'll Learn
 
