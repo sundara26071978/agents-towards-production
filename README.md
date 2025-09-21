@@ -153,25 +153,18 @@ A regular click on "Visit Site" leaves the repo (use Ctrl‑/⌘‑click to keep
        style="table-layout:fixed; width:100%; margin-top:16px; border-collapse:collapse;">
 <tr align="center" valign="top">
 
-  <!-- Anchor Browser -->
+  <!-- Cognee -->
   <td width="200" valign="bottom">
-    <a href="tutorials/anchor-browser-agent" title="Open Anchor Browser tutorial">
-      <picture>
-        <!-- Dark‑mode logo -->
-        <source
-          srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_dark.png"
-          media="(prefers-color-scheme: dark)">
-        <!-- Default (light‑mode) logo -->
-        <img
-          src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_anchorbrowser_light.png"
-          height="20"
-          style="max-width:220px;"
-          alt="Anchor Browser - Agentic browser automation platform for AI agents to interact with web applications and extract data">
-      </picture>
+    <a href="tutorials/ai-memory-with-cognee" title="Open Cognee tutorial">
+      <img
+        src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_cognee.png"
+        height="44"
+        style="max-width:180px;"
+        alt="Cognee - AI memory system for building intelligent knowledge graphs that learn from data and provide contextual insights">
     </a><br>
-    <sub><span style="white-space:nowrap;">Agentic Browser Automation</span><br>
-      <a href="https://anchorbrowser.io?utm_source=agents-towards-production">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Anchor Browser automation platform website">
+    <sub><span style="white-space:nowrap;">AI Memory & Knowledge Graphs</span><br>
+      <a href="https://cognee.ai">
+        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Cognee AI memory platform website">
       </a>
     </sub>
   </td>
@@ -189,18 +182,6 @@ A regular click on "Visit Site" leaves the repo (use Ctrl‑/⌘‑click to keep
     </sub>
   </td>
 
-  <!-- Qualifire -->
-  <td width="200" valign="bottom">
-    <a href="tutorials/agent-observability-with-qualifire" title="Open Qualifire tutorial">
-      <img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png"
-           height="44" style="max-width:180px;" alt="Qualifire - AI agent security and observability platform for monitoring, tracing, and protecting agent workflows">
-    </a><br>
-    <sub><span style="white-space:nowrap;">Security &amp; Observability</span><br>
-      <a href="https://app.qualifire.ai?utm=agents-towards-production">
-        <img src="assets/repos_images/visit-site-badge.svg" width="56" height="16" alt="Visit Qualifire AI agent security platform website">
-      </a>
-    </sub>
-  </td>
 </tr>
 </table>
 
@@ -297,23 +278,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
   </tr>
 </table>
 
-### 🏗️ Full-Stack Applications
-
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
-  <tr>
-    <td>Full-Stack Agent Applications with Portia <img src="https://img.shields.io/badge/NEW-brightgreen" height="16"></td>
-    <td>Master Portia AI framework for building predictable, stateful, and authenticated agentic workflows. Includes SteelThread evaluation framework for real-time production monitoring and offline testing, with hands-on UXR data analysis and Notion integration examples.</td>
-    <td align="center">
-      <a href="tutorials/fullstack-agents-with-portia"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
-</table>
-
 ### 📊 Data Processing
 
 <table width="100%">
@@ -336,13 +300,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-tavily-web-access"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
-  <tr>
-    <td>Browser Automation for AI Agents (Anchor Browser)</td>
-    <td>Enable agents to interact with web applications through browser automation. Learn to extract data from dashboards, automate form filling, and navigate complex web interfaces using cloud-hosted browsers.</td>
-    <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/anchor-browser-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
-  </tr>
 </table>
 
 ### 🧠 Memory
@@ -358,6 +315,13 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Implement dual-memory (short-term and long-term), semantic search, and persistent state for agents that remember user preferences and learn from conversations.</td>
     <td align="center">
       <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>AI Memory with Cognee <img src="https://img.shields.io/badge/NEW-brightgreen" height="16"></td>
+    <td>Build intelligent AI memory systems that learn from Python's creator and improve your development workflow. Transform scattered development data into unified knowledge graphs with contextual insights.</td>
+    <td align="center">
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/ai-memory-with-cognee"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -405,11 +369,21 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <th width="50%">Description</th>
     <th width="20%">View</th>
   </tr>
+</table>
+
+### 🏗️ Full-Stack Applications
+
+<table width="100%">
+  <tr style="background-color:#f8f9fa">
+    <th width="30%">Tutorial</th>
+    <th width="50%">Description</th>
+    <th width="20%">View</th>
+  </tr>
   <tr>
-    <td>Agent Observability: Tracing, Monitoring & Debugging (Qualifire)</td>
-    <td>Gain end-to-end tracing, real-time monitoring, and debugging for agent workflows. Learn to capture logs, traces, and quality metrics for troubleshooting and optimization.</td>
+    <td>Full-Stack Agent Applications with Portia</td>
+    <td>Master Portia AI framework for building predictable, stateful, and authenticated agentic workflows. Includes SteelThread evaluation framework for real-time production monitoring and offline testing, with hands-on UXR data analysis and Notion integration examples.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-observability-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="tutorials/fullstack-agents-with-portia"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -440,13 +414,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <th width="30%">Tutorial</th>
     <th width="50%">Description</th>
     <th width="20%">View</th>
-  </tr>
-  <tr>
-    <td>Real-Time Security Guardrails for Agents (Qualifire)</td>
-    <td>Block prompt injections, hallucinations, unsafe content, and enforce security policies in real time. Learn to implement robust guardrails for agent safety.</td>
-    <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-security-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
-    </td>
   </tr>
   <tr>
     <td>Comprehensive Agent Security (LlamaFirewall)</td>
