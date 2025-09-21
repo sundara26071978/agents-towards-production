@@ -361,16 +361,6 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
   </tr>
 </table>
 
-### 🔍 Real-Time Monitoring
-
-<table width="100%">
-  <tr style="background-color:#f8f9fa">
-    <th width="30%">Tutorial</th>
-    <th width="50%">Description</th>
-    <th width="20%">View</th>
-  </tr>
-</table>
-
 ### 🏗️ Full-Stack Applications
 
 <table width="100%">
